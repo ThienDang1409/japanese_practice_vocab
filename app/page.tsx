@@ -1,65 +1,100 @@
-import Image from "next/image";
+'use client';
 
+import { useState, useEffect } from 'react';
+import Link from 'next/link';
+import { Vocab } from '@/types/vocab';
+import { divideVocabByDays } from '@/lib/vocabUtils';
+import { useFavorites } from '@/hooks/useFavorites';
+
+/**
+ * Trang chủ: Chọn số ngày học và ngày cụ thể để luyện tập
+ */
 export default function Home() {
+  const [vocab, setVocab] = useState<Vocab[]>([]);
+  const [numDays, setNumDays] = useState<number>(10);
+  const [dividedVocab, setDividedVocab] = useState<Vocab[][]>([]);
+  const [isLoading, setIsLoading] = useState(true);
+  const { favorites, isLoaded } = useFavorites();
+
+  // Load vocab data từ JSON
+  useEffect(() => {
+    fetch('/vocab.json')
+      .then(res => res.json())
+      .then(data => {
+        setVocab(data);
+        setIsLoading(false);
+      })
+      .catch(err => {
+        console.error('Error loading vocab:', err);
+        setIsLoading(false);
+      });
+  }, []);
+
+  // Chia vocab theo số ngày khi vocab hoặc numDays thay đổi
+  useEffect(() => {
+    if (vocab.length > 0) {
+      const divided = divideVocabByDays(vocab, numDays);
+      setDividedVocab(divided);
+    }
+  }, [vocab, numDays]);
+
+  if (isLoading || !isLoaded) {
+    return (
+      <div className="container">
+        <div className="loading">Đang tải dữ liệu...</div>
+      </div>
+    );
+  }
+
   return (
-    <div className="flex min-h-screen items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex min-h-screen w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the page.tsx file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
+    <div className="container">
+      <header className="header">
+        <h1>🇯🇵 Luyện Từ Vựng Tiếng Nhật N5</h1>
+        <p>Tổng hợp {vocab.length} từ vựng</p>
+      </header>
+
+      <div className="card">
+        <div className="input-group">
+          <label htmlFor="numDays">Số ngày muốn học:</label>
+          <input
+            id="numDays"
+            type="number"
+            min="1"
+            max="30"
+            value={numDays}
+            onChange={(e) => setNumDays(Math.max(1, parseInt(e.target.value) || 1))}
+          />
         </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
+
+        <div className="day-grid">
+          {dividedVocab.map((dayVocab, index) => (
+            <Link
+              key={index}
+              href={`/practice?day=${index + 1}&total=${numDays}`}
+              className="day-button"
+            >
+              <div>Ngày {index + 1}</div>
+              <div className="count">{dayVocab.length} từ</div>
+            </Link>
+          ))}
         </div>
-      </main>
+      </div>
+
+      {favorites.length > 0 && (
+        <div className="card">
+          <h2 style={{ marginBottom: '1rem', fontSize: '1.25rem' }}>
+            ⭐ Từ Yêu Thích ({favorites.length} từ)
+          </h2>
+          <Link href="/practice?favorites=true" className="btn btn-primary" style={{ width: '100%' }}>
+            Luyện Từ Yêu Thích
+          </Link>
+        </div>
+      )}
+
+      <div className="card" style={{ textAlign: 'center', color: 'var(--text-secondary)' }}>
+        <p>Mỗi ngày là một vòng luyện tập không kết thúc</p>
+        <p>Câu hỏi chạy tuần tự và lặp lại từ đầu khi hết</p>
+      </div>
     </div>
   );
 }

@@ -1,0 +1,4300 @@
+[
+  {
+    "id": 1,
+    "kanji": "朝",
+    "hiragana": "あさ",
+    "romaji": "asa",
+    "meaning": "buổi sáng"
+  },
+  {
+    "id": 2,
+    "kanji": "朝ご飯",
+    "hiragana": "あさごはん",
+    "romaji": "asa gohan",
+    "meaning": "bữa ăn sáng"
+  },
+  {
+    "id": 3,
+    "kanji": "あさって",
+    "hiragana": "あさって",
+    "romaji": "asatte",
+    "meaning": "ngày kia"
+  },
+  {
+    "id": 4,
+    "kanji": "足",
+    "hiragana": "あし",
+    "romaji": "ashi",
+    "meaning": "chân"
+  },
+  {
+    "id": 5,
+    "kanji": "明日",
+    "hiragana": "あした",
+    "romaji": "ashita",
+    "meaning": "ngày mai"
+  },
+  {
+    "id": 6,
+    "kanji": "これ",
+    "hiragana": "これ",
+    "romaji": "kore",
+    "meaning": "cái này"
+  },
+  {
+    "id": 7,
+    "kanji": "それ",
+    "hiragana": "それ",
+    "romaji": "sore",
+    "meaning": "cái đó"
+  },
+  {
+    "id": 8,
+    "kanji": "あれ",
+    "hiragana": "あれ",
+    "romaji": "are",
+    "meaning": "cái kia"
+  },
+  {
+    "id": 9,
+    "kanji": "ここ",
+    "hiragana": "ここ",
+    "romaji": "koko",
+    "meaning": "chỗ này"
+  },
+  {
+    "id": 10,
+    "kanji": "そこ",
+    "hiragana": "そこ",
+    "romaji": "soko",
+    "meaning": "chỗ đó"
+  },
+  {
+    "id": 11,
+    "kanji": "あそこ",
+    "hiragana": "あそこ",
+    "romaji": "asoko",
+    "meaning": "Chỗ kia, đằng kia"
+  },
+  {
+    "id": 12,
+    "kanji": "こちら",
+    "hiragana": "こちら",
+    "romaji": "kochira",
+    "meaning": "phía này"
+  },
+  {
+    "id": 13,
+    "kanji": "そちら",
+    "hiragana": "そちら",
+    "romaji": "sochira",
+    "meaning": "phía đó"
+  },
+  {
+    "id": 14,
+    "kanji": "あちら",
+    "hiragana": "あちら",
+    "romaji": "achira",
+    "meaning": "phía kia"
+  },
+  {
+    "id": 15,
+    "kanji": "春",
+    "hiragana": "はる",
+    "romaji": "haru",
+    "meaning": "mùa xuân"
+  },
+  {
+    "id": 16,
+    "kanji": "夏",
+    "hiragana": "なつ",
+    "romaji": "natsu",
+    "meaning": "mùa hạ"
+  },
+  {
+    "id": 17,
+    "kanji": "秋",
+    "hiragana": "あき",
+    "romaji": "aki",
+    "meaning": "mùa thu"
+  },
+  {
+    "id": 18,
+    "kanji": "冬",
+    "hiragana": "ふゆ",
+    "romaji": "fuyu",
+    "meaning": "mùa đông"
+  },
+  {
+    "id": 19,
+    "kanji": "頭",
+    "hiragana": "あたま",
+    "romaji": "atama",
+    "meaning": "đầu"
+  },
+  {
+    "id": 20,
+    "kanji": "あなた",
+    "hiragana": "あなた",
+    "romaji": "anata",
+    "meaning": "bạn"
+  },
+  {
+    "id": 21,
+    "kanji": "兄",
+    "hiragana": "あに",
+    "romaji": "ani",
+    "meaning": "Anh trai (mình)"
+  },
+  {
+    "id": 22,
+    "kanji": "姉",
+    "hiragana": "あね",
+    "romaji": "ane",
+    "meaning": "Chị gái (mình)"
+  },
+  {
+    "id": 23,
+    "kanji": "アパート",
+    "hiragana": "あぱーと",
+    "romaji": "apaato",
+    "meaning": "căn hộ"
+  },
+  {
+    "id": 24,
+    "kanji": "雨",
+    "hiragana": "あめ",
+    "romaji": "ame",
+    "meaning": "mưa"
+  },
+  {
+    "id": 25,
+    "kanji": "飴",
+    "hiragana": "あめ",
+    "romaji": "ame",
+    "meaning": "kẹo (ngậm)"
+  },
+  {
+    "id": 26,
+    "kanji": "家",
+    "hiragana": "いえ",
+    "romaji": "ie",
+    "meaning": "nhà"
+  },
+  {
+    "id": 27,
+    "kanji": "池",
+    "hiragana": "いけ",
+    "romaji": "ike",
+    "meaning": "cái ao"
+  },
+  {
+    "id": 28,
+    "kanji": "医者",
+    "hiragana": "いしゃ",
+    "romaji": "isha",
+    "meaning": "bác sĩ"
+  },
+  {
+    "id": 29,
+    "kanji": "椅子",
+    "hiragana": "いす",
+    "romaji": "isu",
+    "meaning": "ghế"
+  },
+  {
+    "id": 30,
+    "kanji": "一",
+    "hiragana": "いち",
+    "romaji": "ichi",
+    "meaning": "một"
+  },
+  {
+    "id": 31,
+    "kanji": "一日",
+    "hiragana": "いちにち,ついたち",
+    "romaji": "ichinichi, tsuitachi",
+    "meaning": "Một ngày, ngày mồng 1"
+  },
+  {
+    "id": 32,
+    "kanji": "二日",
+    "hiragana": "ふつか",
+    "romaji": "futsuka",
+    "meaning": "2 ngày, ngày mồng 2"
+  },
+  {
+    "id": 33,
+    "kanji": "三日",
+    "hiragana": "みっか",
+    "romaji": "mikka",
+    "meaning": "3 ngày, ngày mồng 3"
+  },
+  {
+    "id": 34,
+    "kanji": "四日",
+    "hiragana": "よっか",
+    "romaji": "yokka",
+    "meaning": "4 ngày, ngày mồng 4"
+  },
+  {
+    "id": 35,
+    "kanji": "五日",
+    "hiragana": "いつか",
+    "romaji": "itsuka",
+    "meaning": "năm ngày, ngày mồng 5"
+  },
+  {
+    "id": 36,
+    "kanji": "六日",
+    "hiragana": "むいか",
+    "romaji": "muika",
+    "meaning": "6 ngày, ngày mồng 6"
+  },
+  {
+    "id": 37,
+    "kanji": "七日",
+    "hiragana": "なのか",
+    "romaji": "nanoka",
+    "meaning": "7 ngày, ngày mồng 7"
+  },
+  {
+    "id": 38,
+    "kanji": "八日",
+    "hiragana": "ようか",
+    "romaji": "youka",
+    "meaning": "8 ngày, ngày mồng 8"
+  },
+  {
+    "id": 39,
+    "kanji": "九日",
+    "hiragana": "ここのか",
+    "romaji": "kokonoka",
+    "meaning": "9 ngày, ngày mồng 9"
+  },
+  {
+    "id": 40,
+    "kanji": "十日",
+    "hiragana": "とおか",
+    "romaji": "tooka",
+    "meaning": "10 ngày, ngày mồng 10"
+  },
+  {
+    "id": 41,
+    "kanji": "五つ",
+    "hiragana": "いつつ",
+    "romaji": "itsutsu",
+    "meaning": "năm cái (đếm đồ vật nói\nchung)"
+  },
+  {
+    "id": 42,
+    "kanji": "犬",
+    "hiragana": "いぬ",
+    "romaji": "inu",
+    "meaning": "con chó"
+  },
+  {
+    "id": 43,
+    "kanji": "今",
+    "hiragana": "いま",
+    "romaji": "ima",
+    "meaning": "bây giờ"
+  },
+  {
+    "id": 44,
+    "kanji": "意味",
+    "hiragana": "いみ",
+    "romaji": "imi",
+    "meaning": "ý nghĩa"
+  },
+  {
+    "id": 45,
+    "kanji": "妹",
+    "hiragana": "いもうと",
+    "romaji": "imouto",
+    "meaning": "em gái (mình)"
+  },
+  {
+    "id": 46,
+    "kanji": "入口",
+    "hiragana": "いりぐち",
+    "romaji": "iriguchi",
+    "meaning": "lối vào"
+  },
+  {
+    "id": 47,
+    "kanji": "色",
+    "hiragana": "いろ",
+    "romaji": "iro",
+    "meaning": "màu"
+  },
+  {
+    "id": 48,
+    "kanji": "上",
+    "hiragana": "うえ",
+    "romaji": "ue",
+    "meaning": "trên"
+  },
+  {
+    "id": 49,
+    "kanji": "後ろ",
+    "hiragana": "うしろ",
+    "romaji": "ushiro",
+    "meaning": "đằng sau"
+  },
+  {
+    "id": 50,
+    "kanji": "歌",
+    "hiragana": "うた",
+    "romaji": "uta",
+    "meaning": "bài hát"
+  },
+  {
+    "id": 51,
+    "kanji": "海",
+    "hiragana": "うみ",
+    "romaji": "umi",
+    "meaning": "biển"
+  },
+  {
+    "id": 52,
+    "kanji": "上着",
+    "hiragana": "うわぎ",
+    "romaji": "uwagi",
+    "meaning": "áo khoác"
+  },
+  {
+    "id": 53,
+    "kanji": "絵",
+    "hiragana": "え",
+    "romaji": "e",
+    "meaning": "bức tranh"
+  },
+  {
+    "id": 54,
+    "kanji": "映画",
+    "hiragana": "えいが",
+    "romaji": "eiga",
+    "meaning": "phim (điện ảnh)"
+  },
+  {
+    "id": 55,
+    "kanji": "映画館",
+    "hiragana": "えいがかん",
+    "romaji": "eigakan",
+    "meaning": "rạp chiếu phim"
+  },
+  {
+    "id": 56,
+    "kanji": "英語",
+    "hiragana": "えいご",
+    "romaji": "eigo",
+    "meaning": "Tiếng Anh"
+  },
+  {
+    "id": 57,
+    "kanji": "駅",
+    "hiragana": "えき",
+    "romaji": "eki",
+    "meaning": "nhà ga"
+  },
+  {
+    "id": 58,
+    "kanji": "エレベーター",
+    "hiragana": "エレベーター",
+    "romaji": "erebeetaa",
+    "meaning": "thang máy"
+  },
+  {
+    "id": 59,
+    "kanji": "鉛筆",
+    "hiragana": "えんぴつ",
+    "romaji": "enpitsu",
+    "meaning": "bút chì"
+  },
+  {
+    "id": 60,
+    "kanji": "大勢",
+    "hiragana": "おおぜい",
+    "romaji": "oozei",
+    "meaning": "Nhiều (người)"
+  },
+  {
+    "id": 61,
+    "kanji": "お母さん",
+    "hiragana": "おかあさん",
+    "romaji": "okaasan",
+    "meaning": "Mẹ (khi nói về mẹ người khác)"
+  },
+  {
+    "id": 62,
+    "kanji": "お菓子",
+    "hiragana": "おかし",
+    "romaji": "okashi",
+    "meaning": "Bánh, kẹo"
+  },
+  {
+    "id": 63,
+    "kanji": "お金",
+    "hiragana": "おかね",
+    "romaji": "okane",
+    "meaning": "tiền"
+  },
+  {
+    "id": 64,
+    "kanji": "奥さん",
+    "hiragana": "おくさん",
+    "romaji": "okusan",
+    "meaning": "vợ (khi nói về vợ người khác)"
+  },
+  {
+    "id": 65,
+    "kanji": "お酒",
+    "hiragana": "おさけ",
+    "romaji": "osake",
+    "meaning": "rượu"
+  },
+  {
+    "id": 66,
+    "kanji": "お皿",
+    "hiragana": "おさら",
+    "romaji": "osara",
+    "meaning": "Cái đĩa"
+  },
+  {
+    "id": 67,
+    "kanji": "おじいさん",
+    "hiragana": "おじいさん",
+    "romaji": "ojiisan",
+    "meaning": "ông (nội, ngoại), ông già"
+  },
+  {
+    "id": 68,
+    "kanji": "おじさん",
+    "hiragana": "おじさん",
+    "romaji": "ojisan",
+    "meaning": "chú, bác (người đàn ông trung niên)"
+  },
+  {
+    "id": 69,
+    "kanji": "お茶",
+    "hiragana": "おちゃ",
+    "romaji": "ocha",
+    "meaning": "trà"
+  },
+  {
+    "id": 70,
+    "kanji": "お手洗い",
+    "hiragana": "おてあらい",
+    "romaji": "otearai",
+    "meaning": "nhà vệ sinh"
+  },
+  {
+    "id": 71,
+    "kanji": "お父さん",
+    "hiragana": "おとうさん",
+    "romaji": "otousan",
+    "meaning": "bố (dùng để nói về bố người khác)"
+  },
+  {
+    "id": 72,
+    "kanji": "弟",
+    "hiragana": "おとうと",
+    "romaji": "otouto",
+    "meaning": "em trai (mình)"
+  },
+  {
+    "id": 73,
+    "kanji": "男",
+    "hiragana": "おとこ",
+    "romaji": "otoko",
+    "meaning": "nam giới, con trai"
+  },
+  {
+    "id": 74,
+    "kanji": "男の子",
+    "hiragana": "おとこのこ",
+    "romaji": "otokonoko",
+    "meaning": "bé trai"
+  },
+  {
+    "id": 75,
+    "kanji": "一昨日",
+    "hiragana": "おととい",
+    "romaji": "ototoi",
+    "meaning": "hôm kia"
+  },
+  {
+    "id": 76,
+    "kanji": "一昨年",
+    "hiragana": "おととし",
+    "romaji": "ototoshi",
+    "meaning": "Năm kia"
+  },
+  {
+    "id": 77,
+    "kanji": "大人",
+    "hiragana": "おとな",
+    "romaji": "otona",
+    "meaning": "người lớn"
+  },
+  {
+    "id": 78,
+    "kanji": "おなか",
+    "hiragana": "おなか",
+    "romaji": "onaka",
+    "meaning": "bụng"
+  },
+  {
+    "id": 79,
+    "kanji": "同じ",
+    "hiragana": "おなじ",
+    "romaji": "onaji",
+    "meaning": "giống nhau"
+  },
+  {
+    "id": 80,
+    "kanji": "お兄さん",
+    "hiragana": "おにいさん",
+    "romaji": "oniisan",
+    "meaning": "anh trai (người khác)"
+  },
+  {
+    "id": 81,
+    "kanji": "お姉さん",
+    "hiragana": "おねえさん",
+    "romaji": "oneesan",
+    "meaning": "chị gái (người khác)"
+  },
+  {
+    "id": 82,
+    "kanji": "おばあさん",
+    "hiragana": "おばあさん",
+    "romaji": "obaasan",
+    "meaning": "bà (nội, ngoại), bà già"
+  },
+  {
+    "id": 83,
+    "kanji": "おばさん",
+    "hiragana": "おばさん",
+    "romaji": "obasan",
+    "meaning": "Cô, dì"
+  },
+  {
+    "id": 84,
+    "kanji": "お風呂",
+    "hiragana": "おふろ",
+    "romaji": "ofuro",
+    "meaning": "Bồn tắm"
+  },
+  {
+    "id": 85,
+    "kanji": "お弁当",
+    "hiragana": "おべんとう",
+    "romaji": "obento",
+    "meaning": "cơm hộp"
+  },
+  {
+    "id": 86,
+    "kanji": "おまわりさん",
+    "hiragana": "おまわりさん",
+    "romaji": "omawarisan",
+    "meaning": "cảnh sát"
+  },
+  {
+    "id": 87,
+    "kanji": "音楽",
+    "hiragana": "おんがく",
+    "romaji": "ongaku",
+    "meaning": "âm nhạc"
+  },
+  {
+    "id": 88,
+    "kanji": "女の子",
+    "hiragana": "おんなのこ",
+    "romaji": "onnanoko",
+    "meaning": "bé gái"
+  },
+  {
+    "id": 89,
+    "kanji": "外国",
+    "hiragana": "がいこく",
+    "romaji": "gaikoku",
+    "meaning": "nước ngoài"
+  },
+  {
+    "id": 90,
+    "kanji": "外国人",
+    "hiragana": "がいこくじん",
+    "romaji": "gaikokujin",
+    "meaning": "người nước"
+  },
+  {
+    "id": 91,
+    "kanji": "外国人",
+    "hiragana": "がいこくじん",
+    "romaji": "gaikokujin",
+    "meaning": "người nước ngoài"
+  },
+  {
+    "id": 92,
+    "kanji": "会社",
+    "hiragana": "かいしゃ",
+    "romaji": "kaisha",
+    "meaning": "Công ty"
+  },
+  {
+    "id": 93,
+    "kanji": "階段",
+    "hiragana": "かいだん",
+    "romaji": "kaidan",
+    "meaning": "Cầu thang"
+  },
+  {
+    "id": 94,
+    "kanji": "買い物",
+    "hiragana": "かいもの",
+    "romaji": "kaimono",
+    "meaning": "mua sắm"
+  },
+  {
+    "id": 95,
+    "kanji": "かぎ",
+    "hiragana": "かぎ",
+    "romaji": "kagi",
+    "meaning": "chìa khóa"
+  },
+  {
+    "id": 96,
+    "kanji": "学生",
+    "hiragana": "がくせい",
+    "romaji": "gakusei",
+    "meaning": "học sinh, sinh viên"
+  },
+  {
+    "id": 97,
+    "kanji": "傘",
+    "hiragana": "かさ",
+    "romaji": "kasa",
+    "meaning": "cái ô"
+  },
+  {
+    "id": 98,
+    "kanji": "風",
+    "hiragana": "かぜ",
+    "romaji": "kaze",
+    "meaning": "gió"
+  },
+  {
+    "id": 99,
+    "kanji": "風邪",
+    "hiragana": "かぜ",
+    "romaji": "kaze",
+    "meaning": "cảm, cúm"
+  },
+  {
+    "id": 100,
+    "kanji": "家族",
+    "hiragana": "かぞく",
+    "romaji": "kazoku",
+    "meaning": "Gia đình"
+  },
+  {
+    "id": 101,
+    "kanji": "方",
+    "hiragana": "かた",
+    "romaji": "kata",
+    "meaning": "vị, người (cách nói lịch sự của \"hito\"), cách\n(làm việc gì đó)"
+  },
+  {
+    "id": 102,
+    "kanji": "学校",
+    "hiragana": "がっこう",
+    "romaji": "gakkou",
+    "meaning": "trường học"
+  },
+  {
+    "id": 103,
+    "kanji": "",
+    "hiragana": "カップ",
+    "romaji": "kappu",
+    "meaning": "Cốc (có tay cầm)"
+  },
+  {
+    "id": 104,
+    "kanji": "",
+    "hiragana": "コップ",
+    "romaji": "koppu",
+    "meaning": "Cốc (không quai)"
+  },
+  {
+    "id": 105,
+    "kanji": "家庭",
+    "hiragana": "かてい",
+    "romaji": "katei",
+    "meaning": "gia đình"
+  },
+  {
+    "id": 106,
+    "kanji": "角",
+    "hiragana": "かど",
+    "romaji": "kado",
+    "meaning": "góc (bàn, cua, quẹo)"
+  },
+  {
+    "id": 107,
+    "kanji": "",
+    "hiragana": "かばん",
+    "romaji": "kaban",
+    "meaning": "cặp, túi sách"
+  },
+  {
+    "id": 108,
+    "kanji": "花瓶",
+    "hiragana": "かびん",
+    "romaji": "kabin",
+    "meaning": "bình hoa, lọ hoa"
+  },
+  {
+    "id": 109,
+    "kanji": "紙",
+    "hiragana": "かみ",
+    "romaji": "kami",
+    "meaning": "giấy"
+  },
+  {
+    "id": 110,
+    "kanji": "",
+    "hiragana": "カメラ",
+    "romaji": "kamera",
+    "meaning": "máy ảnh"
+  },
+  {
+    "id": 111,
+    "kanji": "火曜日",
+    "hiragana": "かようび",
+    "romaji": "kayoubi",
+    "meaning": "Thứ ba"
+  },
+  {
+    "id": 112,
+    "kanji": "",
+    "hiragana": "カレー",
+    "romaji": "karee",
+    "meaning": "Cà ri"
+  },
+  {
+    "id": 113,
+    "kanji": "",
+    "hiragana": "カレンダー",
+    "romaji": "karendaa",
+    "meaning": "tờ lịch"
+  },
+  {
+    "id": 114,
+    "kanji": "川",
+    "hiragana": "かわ",
+    "romaji": "kawa",
+    "meaning": "sông"
+  },
+  {
+    "id": 115,
+    "kanji": "漢字",
+    "hiragana": "かんじ",
+    "romaji": "kanji",
+    "meaning": "chữ Hán"
+  },
+  {
+    "id": 116,
+    "kanji": "木",
+    "hiragana": "き",
+    "romaji": "ki",
+    "meaning": "cây, gỗ"
+  },
+  {
+    "id": 117,
+    "kanji": "黄色",
+    "hiragana": "きいろ",
+    "romaji": "kiiro",
+    "meaning": "màu vàng"
+  },
+  {
+    "id": 118,
+    "kanji": "北",
+    "hiragana": "きた",
+    "romaji": "kita",
+    "meaning": "phía Bắc"
+  },
+  {
+    "id": 119,
+    "kanji": "",
+    "hiragana": "ギター",
+    "romaji": "gitaa",
+    "meaning": "Guitar"
+  },
+  {
+    "id": 120,
+    "kanji": "喫茶店",
+    "hiragana": "きっさてん",
+    "romaji": "kissaten",
+    "meaning": "quán giải khát"
+  },
+  {
+    "id": 121,
+    "kanji": "切手",
+    "hiragana": "きって",
+    "romaji": "kitte",
+    "meaning": "tem"
+  },
+  {
+    "id": 122,
+    "kanji": "切符",
+    "hiragana": "きっぷ",
+    "romaji": "kippu",
+    "meaning": "vé (tàu, xe)"
+  },
+  {
+    "id": 123,
+    "kanji": "昨日",
+    "hiragana": "きのう",
+    "romaji": "kinou",
+    "meaning": "Hôm qua"
+  },
+  {
+    "id": 124,
+    "kanji": "牛肉",
+    "hiragana": "ぎゅうにく",
+    "romaji": "gyuuniku",
+    "meaning": "thịt bò"
+  },
+  {
+    "id": 125,
+    "kanji": "牛乳",
+    "hiragana": "ぎゅうにゅう",
+    "romaji": "gyuunyuu",
+    "meaning": "sữa (bò)"
+  },
+  {
+    "id": 126,
+    "kanji": "今日",
+    "hiragana": "きょう",
+    "romaji": "kyou",
+    "meaning": "Hôm nay"
+  },
+  {
+    "id": 127,
+    "kanji": "教室",
+    "hiragana": "きょうしつ",
+    "romaji": "kyoushitsu",
+    "meaning": "phòng học, lớp học"
+  },
+  {
+    "id": 128,
+    "kanji": "兄弟",
+    "hiragana": "きょうだい",
+    "romaji": "kyoudai",
+    "meaning": "anh chị em"
+  },
+  {
+    "id": 129,
+    "kanji": "去年",
+    "hiragana": "きょねん",
+    "romaji": "kyonen",
+    "meaning": "năm ngoái"
+  },
+  {
+    "id": 130,
+    "kanji": "キロ/キログラム",
+    "hiragana": "キロ/キログラム",
+    "romaji": "kiro/kuroguramu",
+    "meaning": "kg"
+  },
+  {
+    "id": 131,
+    "kanji": "キロ/キロメート\nル",
+    "hiragana": "キロ/キロメートル",
+    "romaji": "kiro/kiromeetoru",
+    "meaning": "km"
+  },
+  {
+    "id": 132,
+    "kanji": "銀行",
+    "hiragana": "ぎんこう",
+    "romaji": "ginkou",
+    "meaning": "Ngân hàng"
+  },
+  {
+    "id": 133,
+    "kanji": "金曜日",
+    "hiragana": "きんようび",
+    "romaji": "kinyoubi",
+    "meaning": "Thứ sáu"
+  },
+  {
+    "id": 134,
+    "kanji": "薬",
+    "hiragana": "くすり",
+    "romaji": "kusuri",
+    "meaning": "thuốc"
+  },
+  {
+    "id": 135,
+    "kanji": "果物",
+    "hiragana": "くだもの",
+    "romaji": "kudamono",
+    "meaning": "hoa quả, trái cây"
+  },
+  {
+    "id": 136,
+    "kanji": "口",
+    "hiragana": "くち",
+    "romaji": "kuchi",
+    "meaning": "miệng"
+  },
+  {
+    "id": 137,
+    "kanji": "靴",
+    "hiragana": "くつ",
+    "romaji": "kutsu",
+    "meaning": "giày dép"
+  },
+  {
+    "id": 138,
+    "kanji": "靴下",
+    "hiragana": "くつした",
+    "romaji": "kutsushita",
+    "meaning": "cái tất"
+  },
+  {
+    "id": 139,
+    "kanji": "国",
+    "hiragana": "くに",
+    "romaji": "kuni",
+    "meaning": "đất nước"
+  },
+  {
+    "id": 140,
+    "kanji": "曇り",
+    "hiragana": "くもり",
+    "romaji": "kumori",
+    "meaning": "có mây, nhiều\nmây"
+  },
+  {
+    "id": 141,
+    "kanji": "",
+    "hiragana": "クラス",
+    "romaji": "kurasu",
+    "meaning": "lớp học"
+  },
+  {
+    "id": 142,
+    "kanji": "",
+    "hiragana": "グラム",
+    "romaji": "guramu",
+    "meaning": "gram"
+  },
+  {
+    "id": 143,
+    "kanji": "車",
+    "hiragana": "くるま",
+    "romaji": "kuruma",
+    "meaning": "xe hơi, xe"
+  },
+  {
+    "id": 144,
+    "kanji": "黒",
+    "hiragana": "くろ",
+    "romaji": "kuro",
+    "meaning": "đen, màu đen"
+  },
+  {
+    "id": 145,
+    "kanji": "警官",
+    "hiragana": "けいかん",
+    "romaji": "keikan",
+    "meaning": "cảnh sát"
+  },
+  {
+    "id": 146,
+    "kanji": "今朝",
+    "hiragana": "けさ",
+    "romaji": "kesa",
+    "meaning": "sáng nay"
+  },
+  {
+    "id": 147,
+    "kanji": "結婚",
+    "hiragana": "けっこん",
+    "romaji": "kekkon",
+    "meaning": "kết hôn"
+  },
+  {
+    "id": 148,
+    "kanji": "月曜日",
+    "hiragana": "げつようび",
+    "romaji": "getsuyoubi",
+    "meaning": "thứ hai"
+  },
+  {
+    "id": 149,
+    "kanji": "玄関",
+    "hiragana": "げんかん",
+    "romaji": "genkan",
+    "meaning": "lối đi vào"
+  },
+  {
+    "id": 150,
+    "kanji": "公園",
+    "hiragana": "こうえん",
+    "romaji": "kouen",
+    "meaning": "công viên"
+  },
+  {
+    "id": 151,
+    "kanji": "交差点",
+    "hiragana": "こうさてん",
+    "romaji": "kousaten",
+    "meaning": "ngã tư"
+  },
+  {
+    "id": 152,
+    "kanji": "紅茶",
+    "hiragana": "こうちゃ",
+    "romaji": "koucha",
+    "meaning": "trà đen"
+  },
+  {
+    "id": 153,
+    "kanji": "交番",
+    "hiragana": "こうばん",
+    "romaji": "kouban",
+    "meaning": "bốt, trạm cảnh\nsát"
+  },
+  {
+    "id": 154,
+    "kanji": "声",
+    "hiragana": "こえ",
+    "romaji": "koe",
+    "meaning": "tiếng, giọng nói"
+  },
+  {
+    "id": 155,
+    "kanji": "コート",
+    "hiragana": "",
+    "romaji": "kooto",
+    "meaning": "áo khoác"
+  },
+  {
+    "id": 156,
+    "kanji": "",
+    "hiragana": "コーヒー",
+    "romaji": "koohii",
+    "meaning": "cà phê"
+  },
+  {
+    "id": 157,
+    "kanji": "午後",
+    "hiragana": "ごご",
+    "romaji": "gogo",
+    "meaning": "buổi chiều"
+  },
+  {
+    "id": 158,
+    "kanji": "九つ",
+    "hiragana": "ここのつ",
+    "romaji": "kokonotsu",
+    "meaning": "9 cái (vật nói\nchung)"
+  },
+  {
+    "id": 159,
+    "kanji": "午前",
+    "hiragana": "ごぜん",
+    "romaji": "gozen",
+    "meaning": "buổi sáng"
+  },
+  {
+    "id": 160,
+    "kanji": "",
+    "hiragana": "こっち",
+    "romaji": "kocchi",
+    "meaning": "phía này (cách\nnói ngắn gọn của\n\"こちら\")"
+  },
+  {
+    "id": 161,
+    "kanji": "",
+    "hiragana": "コップ",
+    "romaji": "koppu",
+    "meaning": ""
+  },
+  {
+    "id": 162,
+    "kanji": "今年",
+    "hiragana": "ことし",
+    "romaji": "kotoshi",
+    "meaning": "năm nay"
+  },
+  {
+    "id": 163,
+    "kanji": "言葉",
+    "hiragana": "ことば",
+    "romaji": "kotoba",
+    "meaning": "từ, từ vựng"
+  },
+  {
+    "id": 164,
+    "kanji": "子供",
+    "hiragana": "こども",
+    "romaji": "kodomo",
+    "meaning": "trẻ em, con cái"
+  },
+  {
+    "id": 165,
+    "kanji": "御飯",
+    "hiragana": "ごはん",
+    "romaji": "gohan",
+    "meaning": "cơm, bữa ăn"
+  },
+  {
+    "id": 166,
+    "kanji": "これ",
+    "hiragana": "これ",
+    "romaji": "kore",
+    "meaning": "cái này"
+  },
+  {
+    "id": 167,
+    "kanji": "今月",
+    "hiragana": "こんげつ",
+    "romaji": "kongetsu",
+    "meaning": "tháng này"
+  },
+  {
+    "id": 168,
+    "kanji": "今週",
+    "hiragana": "こんしゅう",
+    "romaji": "konshuu",
+    "meaning": "tuần này"
+  },
+  {
+    "id": 169,
+    "kanji": "こんな",
+    "hiragana": "こんな",
+    "romaji": "konna",
+    "meaning": "như thế này"
+  },
+  {
+    "id": 170,
+    "kanji": "今晩",
+    "hiragana": "こんばん",
+    "romaji": "konban",
+    "meaning": "tối nay"
+  },
+  {
+    "id": 171,
+    "kanji": "財布",
+    "hiragana": "さいふ",
+    "romaji": "saifu",
+    "meaning": "cái ví"
+  },
+  {
+    "id": 172,
+    "kanji": "魚",
+    "hiragana": "さかな",
+    "romaji": "sakana",
+    "meaning": "cá"
+  },
+  {
+    "id": 173,
+    "kanji": "作文",
+    "hiragana": "さくぶん",
+    "romaji": "sakubun",
+    "meaning": "làm văn"
+  },
+  {
+    "id": 174,
+    "kanji": "雑誌",
+    "hiragana": "ざっし",
+    "romaji": "zasshi",
+    "meaning": "tạp chí"
+  },
+  {
+    "id": 175,
+    "kanji": "砂糖",
+    "hiragana": "さとう",
+    "romaji": "satou",
+    "meaning": "đường"
+  },
+  {
+    "id": 176,
+    "kanji": "再来年",
+    "hiragana": "さらいねん",
+    "romaji": "sarainen",
+    "meaning": "năm sau nữa"
+  },
+  {
+    "id": 177,
+    "kanji": "三",
+    "hiragana": "さん",
+    "romaji": "san",
+    "meaning": "ba"
+  },
+  {
+    "id": 178,
+    "kanji": "四",
+    "hiragana": "し / よん",
+    "romaji": "shi / yon",
+    "meaning": "bốn"
+  },
+  {
+    "id": 179,
+    "kanji": "塩",
+    "hiragana": "しお",
+    "romaji": "shio",
+    "meaning": "muối"
+  },
+  {
+    "id": 180,
+    "kanji": "時間",
+    "hiragana": "じかん",
+    "romaji": "jikan",
+    "meaning": "Thời gian"
+  },
+  {
+    "id": 181,
+    "kanji": "仕事",
+    "hiragana": "しごと",
+    "romaji": "shigoto",
+    "meaning": "công việc"
+  },
+  {
+    "id": 182,
+    "kanji": "辞書",
+    "hiragana": "じしょ",
+    "romaji": "jisho",
+    "meaning": "từ điển"
+  },
+  {
+    "id": 183,
+    "kanji": "下",
+    "hiragana": "した",
+    "romaji": "shita",
+    "meaning": "dưới"
+  },
+  {
+    "id": 184,
+    "kanji": "七",
+    "hiragana": "しち / なな",
+    "romaji": "shichi / nana",
+    "meaning": "bảy"
+  },
+  {
+    "id": 185,
+    "kanji": "質問",
+    "hiragana": "しつもん",
+    "romaji": "shitsumon",
+    "meaning": "Câu hỏi"
+  },
+  {
+    "id": 186,
+    "kanji": "自転車",
+    "hiragana": "じてんしゃ",
+    "romaji": "jitensha",
+    "meaning": "xe đạp"
+  },
+  {
+    "id": 187,
+    "kanji": "自動車",
+    "hiragana": "じどうしゃ",
+    "romaji": "jidousha",
+    "meaning": "ô tô, xe hơi"
+  },
+  {
+    "id": 188,
+    "kanji": "自分",
+    "hiragana": "じぶん",
+    "romaji": "jibun",
+    "meaning": "bản thân, tự mình"
+  },
+  {
+    "id": 189,
+    "kanji": "写真",
+    "hiragana": "しゃしん",
+    "romaji": "shashin",
+    "meaning": "ảnh"
+  },
+  {
+    "id": 190,
+    "kanji": "",
+    "hiragana": "シャツ",
+    "romaji": "shatsu",
+    "meaning": "áo sơ mi"
+  },
+  {
+    "id": 191,
+    "kanji": "",
+    "hiragana": "シャワー",
+    "romaji": "shawaa",
+    "meaning": "vòi hoa sen"
+  },
+  {
+    "id": 192,
+    "kanji": "十",
+    "hiragana": "じゅう",
+    "romaji": "juu",
+    "meaning": "mười"
+  },
+  {
+    "id": 193,
+    "kanji": "授業",
+    "hiragana": "じゅぎょう",
+    "romaji": "jugyou",
+    "meaning": "giờ học"
+  },
+  {
+    "id": 194,
+    "kanji": "宿題",
+    "hiragana": "しゅくだい",
+    "romaji": "shukudai",
+    "meaning": "bài tập về nhà"
+  },
+  {
+    "id": 195,
+    "kanji": "",
+    "hiragana": "しょうゆ",
+    "romaji": "shouyu",
+    "meaning": ""
+  },
+  {
+    "id": 196,
+    "kanji": "食堂",
+    "hiragana": "しょくどう",
+    "romaji": "shokudou",
+    "meaning": "phòng ăn, nhà ăn"
+  },
+  {
+    "id": 197,
+    "kanji": "新聞",
+    "hiragana": "しんぶん",
+    "romaji": "shinbun",
+    "meaning": "báo"
+  },
+  {
+    "id": 198,
+    "kanji": "水曜日",
+    "hiragana": "すいようび",
+    "romaji": "suiyoubi",
+    "meaning": "Thứ tư"
+  },
+  {
+    "id": 199,
+    "kanji": "",
+    "hiragana": "スカート",
+    "romaji": "sukaato",
+    "meaning": "váy ngắn"
+  },
+  {
+    "id": 200,
+    "kanji": "",
+    "hiragana": "ストーブ",
+    "romaji": "sutoobu",
+    "meaning": "lò sưởi"
+  },
+  {
+    "id": 201,
+    "kanji": "",
+    "hiragana": "スプーン",
+    "romaji": "supuun",
+    "meaning": "cái thìa"
+  },
+  {
+    "id": 202,
+    "kanji": "",
+    "hiragana": "スポーツ",
+    "romaji": "supootsu",
+    "meaning": "Thể thao"
+  },
+  {
+    "id": 203,
+    "kanji": "",
+    "hiragana": "ズボン",
+    "romaji": "zubon",
+    "meaning": "quần"
+  },
+  {
+    "id": 204,
+    "kanji": "背",
+    "hiragana": "せ",
+    "romaji": "se",
+    "meaning": "lưng"
+  },
+  {
+    "id": 205,
+    "kanji": "生徒",
+    "hiragana": "せいと",
+    "romaji": "seito",
+    "meaning": "học sinh"
+  },
+  {
+    "id": 206,
+    "kanji": "",
+    "hiragana": "セーター",
+    "romaji": "seeetaa",
+    "meaning": "áo len"
+  },
+  {
+    "id": 207,
+    "kanji": "",
+    "hiragana": "せっけん",
+    "romaji": "sekken",
+    "meaning": "xà bông"
+  },
+  {
+    "id": 208,
+    "kanji": "",
+    "hiragana": "ゼロ",
+    "romaji": "zero",
+    "meaning": "số 0"
+  },
+  {
+    "id": 209,
+    "kanji": "千",
+    "hiragana": "せん",
+    "romaji": "sen",
+    "meaning": "nghìn"
+  },
+  {
+    "id": 210,
+    "kanji": "先月",
+    "hiragana": "せんげつ",
+    "romaji": "sengetsu",
+    "meaning": "tháng trước"
+  },
+  {
+    "id": 211,
+    "kanji": "先週",
+    "hiragana": "せんしゅう",
+    "romaji": "senshuu",
+    "meaning": "tuần trước"
+  },
+  {
+    "id": 212,
+    "kanji": "先生",
+    "hiragana": "せんせい",
+    "romaji": "sensei",
+    "meaning": "giáo viên, bác sĩ"
+  },
+  {
+    "id": 213,
+    "kanji": "洗濯",
+    "hiragana": "せんたく",
+    "romaji": "sentaku",
+    "meaning": "việc giặt giũ"
+  },
+  {
+    "id": 214,
+    "kanji": "掃除",
+    "hiragana": "そうじ",
+    "romaji": "souji",
+    "meaning": "dọn dẹp"
+  },
+  {
+    "id": 215,
+    "kanji": "",
+    "hiragana": "そこ",
+    "romaji": "soko",
+    "meaning": "chỗ đó"
+  },
+  {
+    "id": 216,
+    "kanji": "",
+    "hiragana": "そちら",
+    "romaji": "sochira",
+    "meaning": "phía đó"
+  },
+  {
+    "id": 217,
+    "kanji": "",
+    "hiragana": "そっち",
+    "romaji": "socchi",
+    "meaning": "phía đó (thể thông\nthường của そちら)"
+  },
+  {
+    "id": 218,
+    "kanji": "外",
+    "hiragana": "そと",
+    "romaji": "soto",
+    "meaning": "ngoài"
+  },
+  {
+    "id": 219,
+    "kanji": "",
+    "hiragana": "そば",
+    "romaji": "soba",
+    "meaning": "gần, bên cạnh"
+  },
+  {
+    "id": 220,
+    "kanji": "空",
+    "hiragana": "そら",
+    "romaji": "sora",
+    "meaning": "bầu trời"
+  },
+  {
+    "id": 221,
+    "kanji": "",
+    "hiragana": "それ",
+    "romaji": "sore",
+    "meaning": "cái đó"
+  },
+  {
+    "id": 222,
+    "kanji": "大学",
+    "hiragana": "だいがく",
+    "romaji": "daigaku",
+    "meaning": "đại học"
+  },
+  {
+    "id": 223,
+    "kanji": "大使館",
+    "hiragana": "たいしかん",
+    "romaji": "taishikan",
+    "meaning": "Đại sứ quán"
+  },
+  {
+    "id": 224,
+    "kanji": "台所",
+    "hiragana": "だいどころ",
+    "romaji": "daidokoro",
+    "meaning": "nhà bếp"
+  },
+  {
+    "id": 225,
+    "kanji": "",
+    "hiragana": "タクシー",
+    "romaji": "takushii",
+    "meaning": "xe taxi"
+  },
+  {
+    "id": 226,
+    "kanji": "建物",
+    "hiragana": "たてもの",
+    "romaji": "tatemono",
+    "meaning": "tòa nhà"
+  },
+  {
+    "id": 227,
+    "kanji": "食べ物",
+    "hiragana": "たべもの",
+    "romaji": "tabemono",
+    "meaning": "đồ ăn"
+  },
+  {
+    "id": 228,
+    "kanji": "卵",
+    "hiragana": "たまご",
+    "romaji": "tamago",
+    "meaning": "trứng"
+  },
+  {
+    "id": 229,
+    "kanji": "誕生日",
+    "hiragana": "たんじょうび",
+    "romaji": "tanjoubi",
+    "meaning": "sinh nhật"
+  },
+  {
+    "id": 230,
+    "kanji": "地下鉄",
+    "hiragana": "ちかてつ",
+    "romaji": "chikatetsu",
+    "meaning": "tàu điện ngầm"
+  },
+  {
+    "id": 231,
+    "kanji": "地図",
+    "hiragana": "ちず",
+    "romaji": "chizu",
+    "meaning": "Bản đồ"
+  },
+  {
+    "id": 232,
+    "kanji": "茶色",
+    "hiragana": "ちゃいろ",
+    "romaji": "chairo",
+    "meaning": "màu nâu (màu trà)"
+  },
+  {
+    "id": 233,
+    "kanji": "ちゃわん",
+    "hiragana": "chawan",
+    "romaji": "cái bát",
+    "meaning": ""
+  },
+  {
+    "id": 234,
+    "kanji": "一日",
+    "hiragana": "ついたち",
+    "romaji": "tsuitachi",
+    "meaning": "ngày mồng 1"
+  },
+  {
+    "id": 235,
+    "kanji": "机",
+    "hiragana": "つくえ",
+    "romaji": "tsukue",
+    "meaning": "bàn"
+  },
+  {
+    "id": 236,
+    "kanji": "手",
+    "hiragana": "て",
+    "romaji": "te",
+    "meaning": "tay"
+  },
+  {
+    "id": 237,
+    "kanji": "",
+    "hiragana": "テーブル",
+    "romaji": "teeburu",
+    "meaning": "cái bàn"
+  },
+  {
+    "id": 238,
+    "kanji": "",
+    "hiragana": "テープレコー\nダー",
+    "romaji": "teepurekoodaa",
+    "meaning": "máy ghi âm"
+  },
+  {
+    "id": 239,
+    "kanji": "手紙",
+    "hiragana": "てがみ",
+    "romaji": "tegami",
+    "meaning": "thư"
+  },
+  {
+    "id": 240,
+    "kanji": "出口",
+    "hiragana": "でぐち",
+    "romaji": "deguchi",
+    "meaning": "cửa ra, lối ra"
+  },
+  {
+    "id": 241,
+    "kanji": "",
+    "hiragana": "テスト",
+    "romaji": "tesutoデパート",
+    "meaning": "kiểm tra"
+  },
+  {
+    "id": 242,
+    "kanji": "",
+    "hiragana": "",
+    "romaji": "depaato",
+    "meaning": "cửa hàng bách hóa"
+  },
+  {
+    "id": 243,
+    "kanji": "",
+    "hiragana": "テレビ",
+    "romaji": "terebi",
+    "meaning": "Tivi"
+  },
+  {
+    "id": 244,
+    "kanji": "天気",
+    "hiragana": "てんき",
+    "romaji": "tenki",
+    "meaning": "thời tiết"
+  },
+  {
+    "id": 245,
+    "kanji": "電気",
+    "hiragana": "でんき",
+    "romaji": "denki",
+    "meaning": "điện, đèn điện"
+  },
+  {
+    "id": 246,
+    "kanji": "電車",
+    "hiragana": "でんしゃ",
+    "romaji": "densha",
+    "meaning": "tàu điện"
+  },
+  {
+    "id": 247,
+    "kanji": "電話",
+    "hiragana": "でんわ",
+    "romaji": "denwa",
+    "meaning": "điện thoại"
+  },
+  {
+    "id": 248,
+    "kanji": "戸",
+    "hiragana": "と",
+    "romaji": "to",
+    "meaning": "Cửa"
+  },
+  {
+    "id": 249,
+    "kanji": "",
+    "hiragana": "ドア",
+    "romaji": "doa",
+    "meaning": "Cửa"
+  },
+  {
+    "id": 250,
+    "kanji": "",
+    "hiragana": "toire",
+    "romaji": "toire",
+    "meaning": "nhà vệ sinh"
+  },
+  {
+    "id": 251,
+    "kanji": "所",
+    "hiragana": "ところ",
+    "romaji": "tokoro",
+    "meaning": "nơi, chỗ"
+  },
+  {
+    "id": 252,
+    "kanji": "年",
+    "hiragana": "とし",
+    "romaji": "toshi",
+    "meaning": "năm"
+  },
+  {
+    "id": 253,
+    "kanji": "図書館",
+    "hiragana": "としょかん",
+    "romaji": "toshokan",
+    "meaning": "thư viện"
+  },
+  {
+    "id": 254,
+    "kanji": "動物",
+    "hiragana": "どうぶつ",
+    "romaji": "doubutsu",
+    "meaning": "động vật"
+  },
+  {
+    "id": 255,
+    "kanji": "時々",
+    "hiragana": "ときどき",
+    "romaji": "tokidoki",
+    "meaning": "thỉnh thoảng"
+  },
+  {
+    "id": 256,
+    "kanji": "時計",
+    "hiragana": "とけい",
+    "romaji": "tokei",
+    "meaning": "đồng hồ"
+  },
+  {
+    "id": 257,
+    "kanji": "隣",
+    "hiragana": "となり",
+    "romaji": "tonari",
+    "meaning": "bên cạnh"
+  },
+  {
+    "id": 258,
+    "kanji": "友達",
+    "hiragana": "ともだち",
+    "romaji": "tomodachi",
+    "meaning": "bạn bè"
+  },
+  {
+    "id": 259,
+    "kanji": "土曜日",
+    "hiragana": "どようび",
+    "romaji": "doyoubi",
+    "meaning": "Thứ bảy"
+  },
+  {
+    "id": 260,
+    "kanji": "鳥",
+    "hiragana": "とり",
+    "romaji": "tori",
+    "meaning": "con chim"
+  },
+  {
+    "id": 261,
+    "kanji": "とり肉",
+    "hiragana": "とりにく",
+    "romaji": "toriniku",
+    "meaning": "thịt gà"
+  },
+  {
+    "id": 262,
+    "kanji": "ナイフ",
+    "hiragana": "naifu",
+    "romaji": "naifu",
+    "meaning": "dao"
+  },
+  {
+    "id": 263,
+    "kanji": "中",
+    "hiragana": "なか",
+    "romaji": "naka",
+    "meaning": "trong"
+  },
+  {
+    "id": 264,
+    "kanji": "夏",
+    "hiragana": "なつ",
+    "romaji": "natsu",
+    "meaning": "mùa hè"
+  },
+  {
+    "id": 265,
+    "kanji": "夏休み",
+    "hiragana": "なつやすみ",
+    "romaji": "natsuyasumi",
+    "meaning": "kỳ nghỉ hè"
+  },
+  {
+    "id": 266,
+    "kanji": "七つ",
+    "hiragana": "ななつ",
+    "romaji": "nanatsu",
+    "meaning": "bảy cái (đếm vật nói chung)"
+  },
+  {
+    "id": 267,
+    "kanji": "名前",
+    "hiragana": "なまえ",
+    "romaji": "namae",
+    "meaning": "tên"
+  },
+  {
+    "id": 268,
+    "kanji": "二",
+    "hiragana": "に",
+    "romaji": "ni",
+    "meaning": "hai"
+  },
+  {
+    "id": 269,
+    "kanji": "肉",
+    "hiragana": "にく",
+    "romaji": "niku",
+    "meaning": "thịt"
+  },
+  {
+    "id": 270,
+    "kanji": "西",
+    "hiragana": "にし",
+    "romaji": "nishi",
+    "meaning": "phía Tây"
+  },
+  {
+    "id": 271,
+    "kanji": "日曜日",
+    "hiragana": "にちようび",
+    "romaji": "nichiyoubi",
+    "meaning": "Chủ Nhật"
+  },
+  {
+    "id": 272,
+    "kanji": "荷物",
+    "hiragana": "にもつ",
+    "romaji": "nimotsu",
+    "meaning": "hành lý, đồ đạc"
+  },
+  {
+    "id": 273,
+    "kanji": "",
+    "hiragana": "ニュース",
+    "romaji": "nyuusu",
+    "meaning": "tin tức"
+  },
+  {
+    "id": 274,
+    "kanji": "庭",
+    "hiragana": "にわ",
+    "romaji": "niwa",
+    "meaning": "vườn"
+  },
+  {
+    "id": 275,
+    "kanji": "",
+    "hiragana": "ネクタイ",
+    "romaji": "nekutai",
+    "meaning": "cà vạt"
+  },
+  {
+    "id": 276,
+    "kanji": "猫",
+    "hiragana": "ねこ",
+    "romaji": "neko",
+    "meaning": "mèo"
+  },
+  {
+    "id": 277,
+    "kanji": "飲み物",
+    "hiragana": "のみもの",
+    "romaji": "nomimono",
+    "meaning": "đồ uống"
+  },
+  {
+    "id": 278,
+    "kanji": "歯",
+    "hiragana": "は",
+    "romaji": "ha",
+    "meaning": "răng"
+  },
+  {
+    "id": 279,
+    "kanji": "",
+    "hiragana": "パーティー",
+    "romaji": "paatii",
+    "meaning": "tiệc"
+  },
+  {
+    "id": 280,
+    "kanji": "灰皿",
+    "hiragana": "はいざら",
+    "romaji": "haizara",
+    "meaning": "gạt tàn thuốc"
+  },
+  {
+    "id": 281,
+    "kanji": "葉書",
+    "hiragana": "はがき",
+    "romaji": "hagaki",
+    "meaning": "bưu thiếp"
+  },
+  {
+    "id": 282,
+    "kanji": "箱",
+    "hiragana": "はこ",
+    "romaji": "hako",
+    "meaning": "cái hộp"
+  },
+  {
+    "id": 283,
+    "kanji": "橋",
+    "hiragana": "はし",
+    "romaji": "hashi",
+    "meaning": "cầu"
+  },
+  {
+    "id": 284,
+    "kanji": "箸",
+    "hiragana": "はし",
+    "romaji": "hashi",
+    "meaning": "đũa"
+  },
+  {
+    "id": 285,
+    "kanji": "",
+    "hiragana": "バス",
+    "romaji": "basu",
+    "meaning": "xe buýt"
+  },
+  {
+    "id": 286,
+    "kanji": "",
+    "hiragana": "バター",
+    "romaji": "bataa",
+    "meaning": "bơ"
+  },
+  {
+    "id": 287,
+    "kanji": "二十歳",
+    "hiragana": "はたち, にじゅっさい",
+    "romaji": "hatachi, nijuussai",
+    "meaning": "20 tuổi"
+  },
+  {
+    "id": 288,
+    "kanji": "八",
+    "hiragana": "はち",
+    "romaji": "hachi",
+    "meaning": "tám"
+  },
+  {
+    "id": 289,
+    "kanji": "二十日",
+    "hiragana": "はつか",
+    "romaji": "hatsuka",
+    "meaning": "ngày 20, 20 ngày"
+  },
+  {
+    "id": 290,
+    "kanji": "花",
+    "hiragana": "はな",
+    "romaji": "hana",
+    "meaning": "hoa"
+  },
+  {
+    "id": 291,
+    "kanji": "鼻",
+    "hiragana": "はな",
+    "romaji": "hana",
+    "meaning": "mũi"
+  },
+  {
+    "id": 292,
+    "kanji": "話",
+    "hiragana": "はなし",
+    "romaji": "hanashi",
+    "meaning": "câu chuyện"
+  },
+  {
+    "id": 293,
+    "kanji": "春",
+    "hiragana": "はる",
+    "romaji": "haru",
+    "meaning": "mùa xuân"
+  },
+  {
+    "id": 294,
+    "kanji": "半",
+    "hiragana": "はん",
+    "romaji": "han",
+    "meaning": "một nửa"
+  },
+  {
+    "id": 295,
+    "kanji": "晩",
+    "hiragana": "ばん",
+    "romaji": "ban",
+    "meaning": "buổi tối"
+  },
+  {
+    "id": 296,
+    "kanji": "",
+    "hiragana": "パン",
+    "romaji": "pan",
+    "meaning": "bánh mì"
+  },
+  {
+    "id": 297,
+    "kanji": "",
+    "hiragana": "チハンカ",
+    "romaji": "hankachi",
+    "meaning": "khăn tay"
+  },
+  {
+    "id": 298,
+    "kanji": "番号",
+    "hiragana": "ばんごう",
+    "romaji": "bangou",
+    "meaning": "số"
+  },
+  {
+    "id": 299,
+    "kanji": "晩御飯",
+    "hiragana": "ばんごはん",
+    "romaji": "bangohan",
+    "meaning": "bữa ăn tối"
+  },
+  {
+    "id": 300,
+    "kanji": "半分",
+    "hiragana": "はんぶん",
+    "romaji": "hanbun",
+    "meaning": "một nửa"
+  },
+  {
+    "id": 301,
+    "kanji": "東",
+    "hiragana": "ひがし",
+    "romaji": "higashi",
+    "meaning": "phía Đông"
+  },
+  {
+    "id": 302,
+    "kanji": "飛行機",
+    "hiragana": "ひこうき",
+    "romaji": "hikouki",
+    "meaning": "máy bay"
+  },
+  {
+    "id": 303,
+    "kanji": "左",
+    "hiragana": "ひだり",
+    "romaji": "hidari",
+    "meaning": "phía bên tay trái"
+  },
+  {
+    "id": 304,
+    "kanji": "人",
+    "hiragana": "ひと",
+    "romaji": "hito",
+    "meaning": "người"
+  },
+  {
+    "id": 305,
+    "kanji": "一つ",
+    "hiragana": "ひとつ",
+    "romaji": "hitotsu",
+    "meaning": "một cái (đếm vật nói chung)"
+  },
+  {
+    "id": 306,
+    "kanji": "一月",
+    "hiragana": "いちがつ",
+    "romaji": "ichigatsu",
+    "meaning": "tháng 1"
+  },
+  {
+    "id": 307,
+    "kanji": "一人",
+    "hiragana": "ひとり",
+    "romaji": "hitori",
+    "meaning": "một người"
+  },
+  {
+    "id": 308,
+    "kanji": "百",
+    "hiragana": "ひゃく",
+    "romaji": "hyaku",
+    "meaning": "trăm"
+  },
+  {
+    "id": 309,
+    "kanji": "病院",
+    "hiragana": "びょういん",
+    "romaji": "byouin",
+    "meaning": "bệnh viện"
+  },
+  {
+    "id": 310,
+    "kanji": "病気",
+    "hiragana": "びょうき",
+    "romaji": "byouki",
+    "meaning": "bệnh"
+  },
+  {
+    "id": 311,
+    "kanji": "昼",
+    "hiragana": "ひる",
+    "romaji": "hiru",
+    "meaning": "buổi trưa, ban ngày"
+  },
+  {
+    "id": 312,
+    "kanji": "昼ご飯",
+    "hiragana": "ひるごはん",
+    "romaji": "hirugohan",
+    "meaning": "ăn trưa"
+  },
+  {
+    "id": 313,
+    "kanji": "",
+    "hiragana": "フィルム",
+    "romaji": "firumu",
+    "meaning": "cuộn phim"
+  },
+  {
+    "id": 314,
+    "kanji": "封筒",
+    "hiragana": "ふうとう",
+    "romaji": "fuutou",
+    "meaning": "phong bì"
+  },
+  {
+    "id": 315,
+    "kanji": "",
+    "hiragana": "プール",
+    "romaji": "puuru",
+    "meaning": "hồ bơi"
+  },
+  {
+    "id": 316,
+    "kanji": "",
+    "hiragana": "フォーク",
+    "romaji": "fooku",
+    "meaning": "dĩa"
+  },
+  {
+    "id": 317,
+    "kanji": "服",
+    "hiragana": "ふく",
+    "romaji": "fuku",
+    "meaning": "quần áo"
+  },
+  {
+    "id": 318,
+    "kanji": "二つ",
+    "hiragana": "ふたつ",
+    "romaji": "futatsu",
+    "meaning": "hai cái (đếm vật nói chung)"
+  },
+  {
+    "id": 319,
+    "kanji": "豚肉",
+    "hiragana": "ぶたにく",
+    "romaji": "butaniku",
+    "meaning": "thịt lợn"
+  },
+  {
+    "id": 320,
+    "kanji": "二人",
+    "hiragana": "ふたり",
+    "romaji": "futari",
+    "meaning": "hai người"
+  },
+  {
+    "id": 321,
+    "kanji": "二日",
+    "hiragana": "ふつか",
+    "romaji": "futsuka",
+    "meaning": "hai ngày, ngày mồng 2"
+  },
+  {
+    "id": 322,
+    "kanji": "冬",
+    "hiragana": "ふゆ",
+    "romaji": "fuyu",
+    "meaning": "mùa đông"
+  },
+  {
+    "id": 323,
+    "kanji": "文章",
+    "hiragana": "ぶんしょう",
+    "romaji": "bunshou",
+    "meaning": "câu văn, đoạn văn"
+  },
+  {
+    "id": 324,
+    "kanji": "",
+    "hiragana": "ページ",
+    "romaji": "peji",
+    "meaning": "trang"
+  },
+  {
+    "id": 325,
+    "kanji": "",
+    "hiragana": "ベッド",
+    "romaji": "beddo",
+    "meaning": "cái giường"
+  },
+  {
+    "id": 326,
+    "kanji": "",
+    "hiragana": "ペット",
+    "romaji": "petto",
+    "meaning": "thú cưng"
+  },
+  {
+    "id": 327,
+    "kanji": "部屋",
+    "hiragana": "へや",
+    "romaji": "heya",
+    "meaning": "căn phòng"
+  },
+  {
+    "id": 328,
+    "kanji": "辺",
+    "hiragana": "へん",
+    "romaji": "hen",
+    "meaning": "khu vực"
+  },
+  {
+    "id": 329,
+    "kanji": "",
+    "hiragana": "ペン",
+    "romaji": "pen",
+    "meaning": "bút"
+  },
+  {
+    "id": 330,
+    "kanji": "帽子",
+    "hiragana": "ぼうし",
+    "romaji": "boushi",
+    "meaning": "mũ"
+  },
+  {
+    "id": 331,
+    "kanji": "ボールペン",
+    "hiragana": "",
+    "romaji": "boorupen",
+    "meaning": "bút bi"
+  },
+  {
+    "id": 332,
+    "kanji": "",
+    "hiragana": "ポケット",
+    "romaji": "poketto",
+    "meaning": "túi (áo, quần)"
+  },
+  {
+    "id": 333,
+    "kanji": "",
+    "hiragana": "ボタン",
+    "romaji": "botan",
+    "meaning": "nút"
+  },
+  {
+    "id": 334,
+    "kanji": "",
+    "hiragana": "ホテル",
+    "romaji": "hoteru",
+    "meaning": "khách sạn"
+  },
+  {
+    "id": 335,
+    "kanji": "本",
+    "hiragana": "ほん",
+    "romaji": "hon",
+    "meaning": "cuốn sách"
+  },
+  {
+    "id": 336,
+    "kanji": "本棚",
+    "hiragana": "ほんだな",
+    "romaji": "hondana",
+    "meaning": "giá sách"
+  },
+  {
+    "id": 337,
+    "kanji": "本当",
+    "hiragana": "ほんとう",
+    "romaji": "hontou",
+    "meaning": "sự thật"
+  },
+  {
+    "id": 338,
+    "kanji": "毎朝",
+    "hiragana": "まいあさ",
+    "romaji": "maiasa",
+    "meaning": "mỗi buổi sáng"
+  },
+  {
+    "id": 339,
+    "kanji": "毎月",
+    "hiragana": "まいげつ/まいつき",
+    "romaji": "maigetsu/maitsuki",
+    "meaning": "mỗi tháng"
+  },
+  {
+    "id": 340,
+    "kanji": "毎週",
+    "hiragana": "まいしゅう",
+    "romaji": "maishuu",
+    "meaning": "mỗi tuần"
+  },
+  {
+    "id": 341,
+    "kanji": "毎日",
+    "hiragana": "まいにち",
+    "romaji": "mainichi",
+    "meaning": "mỗi ngày"
+  },
+  {
+    "id": 342,
+    "kanji": "毎年",
+    "hiragana": "まいねん/まいとし",
+    "romaji": "mainen/maitoshi",
+    "meaning": "mỗi năm"
+  },
+  {
+    "id": 343,
+    "kanji": "毎晩",
+    "hiragana": "まいばん",
+    "romaji": "maiban",
+    "meaning": "mỗi tối"
+  },
+  {
+    "id": 344,
+    "kanji": "前",
+    "hiragana": "まえ",
+    "romaji": "mae",
+    "meaning": "trước"
+  },
+  {
+    "id": 345,
+    "kanji": "町",
+    "hiragana": "まち",
+    "romaji": "machi",
+    "meaning": "thị xã, thành phố"
+  },
+  {
+    "id": 346,
+    "kanji": "窓",
+    "hiragana": "まど",
+    "romaji": "mado",
+    "meaning": "cửa sổ"
+  },
+  {
+    "id": 347,
+    "kanji": "万",
+    "hiragana": "まん",
+    "romaji": "man",
+    "meaning": "mười nghìn"
+  },
+  {
+    "id": 348,
+    "kanji": "万年筆",
+    "hiragana": "まんねんひつ",
+    "romaji": "mannenhitsu",
+    "meaning": "bút mực"
+  },
+  {
+    "id": 349,
+    "kanji": "右",
+    "hiragana": "みぎ",
+    "romaji": "migi",
+    "meaning": "bên phải"
+  },
+  {
+    "id": 350,
+    "kanji": "水",
+    "hiragana": "みず",
+    "romaji": "mizu",
+    "meaning": "nước"
+  },
+  {
+    "id": 351,
+    "kanji": "店",
+    "hiragana": "みせ",
+    "romaji": "mise",
+    "meaning": "cửa hàng, cửa tiệm"
+  },
+  {
+    "id": 352,
+    "kanji": "道",
+    "hiragana": "みち",
+    "romaji": "michi",
+    "meaning": "đường phố"
+  },
+  {
+    "id": 353,
+    "kanji": "三つ",
+    "hiragana": "みっつ",
+    "romaji": "mittsu",
+    "meaning": "ba cái (đếm đồ vật nói chung)"
+  },
+  {
+    "id": 354,
+    "kanji": "緑",
+    "hiragana": "みどり",
+    "romaji": "midori",
+    "meaning": "màu xanh lá cây"
+  },
+  {
+    "id": 355,
+    "kanji": "皆さん",
+    "hiragana": "みなさん",
+    "romaji": "minasan",
+    "meaning": "tất cả mọi người"
+  },
+  {
+    "id": 356,
+    "kanji": "南",
+    "hiragana": "みなみ",
+    "romaji": "minami",
+    "meaning": "phía Nam"
+  },
+  {
+    "id": 357,
+    "kanji": "耳",
+    "hiragana": "みみ",
+    "romaji": "mimi",
+    "meaning": "tai"
+  },
+  {
+    "id": 358,
+    "kanji": "",
+    "hiragana": "みんな",
+    "romaji": "minna",
+    "meaning": "tất cả"
+  },
+  {
+    "id": 359,
+    "kanji": "向こう",
+    "hiragana": "むこう",
+    "romaji": "mukou",
+    "meaning": "phía bên kia"
+  },
+  {
+    "id": 360,
+    "kanji": "六つ",
+    "hiragana": "むっつ",
+    "romaji": "muttsu",
+    "meaning": "sáu cái (đếm đồ vật nói chung)"
+  },
+  {
+    "id": 361,
+    "kanji": "村",
+    "hiragana": "むら",
+    "romaji": "mura",
+    "meaning": "làng"
+  },
+  {
+    "id": 362,
+    "kanji": "目",
+    "hiragana": "め",
+    "romaji": "me",
+    "meaning": "mắt"
+  },
+  {
+    "id": 363,
+    "kanji": "",
+    "hiragana": "メートル",
+    "romaji": "meetoru",
+    "meaning": "mét"
+  },
+  {
+    "id": 364,
+    "kanji": "眼鏡",
+    "hiragana": "めがね",
+    "romaji": "megane",
+    "meaning": "kính"
+  },
+  {
+    "id": 365,
+    "kanji": "もう一度",
+    "hiragana": "もういちど",
+    "romaji": "mouichido",
+    "meaning": "một lần nữa"
+  },
+  {
+    "id": 366,
+    "kanji": "木曜日",
+    "hiragana": "もくようび",
+    "romaji": "mokuyoubi",
+    "meaning": "Thứ năm"
+  },
+  {
+    "id": 367,
+    "kanji": "物",
+    "hiragana": "もの",
+    "romaji": "mono",
+    "meaning": "đồ vật"
+  },
+  {
+    "id": 368,
+    "kanji": "門",
+    "hiragana": "もん",
+    "romaji": "mon",
+    "meaning": "cổng, cửa"
+  },
+  {
+    "id": 369,
+    "kanji": "問題",
+    "hiragana": "もんだい",
+    "romaji": "mondai",
+    "meaning": "vấn đề"
+  },
+  {
+    "id": 370,
+    "kanji": "八百屋",
+    "hiragana": "やおや",
+    "romaji": "yaoya",
+    "meaning": "cửa hàng rau"
+  },
+  {
+    "id": 371,
+    "kanji": "野菜",
+    "hiragana": "やさい",
+    "romaji": "yasai",
+    "meaning": "rau"
+  },
+  {
+    "id": 372,
+    "kanji": "休み",
+    "hiragana": "やすみ",
+    "romaji": "yasumi",
+    "meaning": "nghỉ, nghỉ ngơi"
+  },
+  {
+    "id": 373,
+    "kanji": "八つ",
+    "hiragana": "やっつ",
+    "romaji": "yattsu",
+    "meaning": "tám cái (đếm vật nói chung)"
+  },
+  {
+    "id": 374,
+    "kanji": "山",
+    "hiragana": "やま",
+    "romaji": "yama",
+    "meaning": "núi"
+  },
+  {
+    "id": 375,
+    "kanji": "夕方",
+    "hiragana": "ゆうがた",
+    "romaji": "yuugata",
+    "meaning": "chiều tối"
+  },
+  {
+    "id": 376,
+    "kanji": "夕飯",
+    "hiragana": "ゆうはん",
+    "romaji": "yuuhan",
+    "meaning": "bữa ăn tối"
+  },
+  {
+    "id": 377,
+    "kanji": "郵便局",
+    "hiragana": "ゆうびんきょく",
+    "romaji": "yuubinkyoku",
+    "meaning": "bưu điện"
+  },
+  {
+    "id": 378,
+    "kanji": "ゆうべ",
+    "hiragana": "ゆうべ",
+    "romaji": "yuube",
+    "meaning": "đêm qua"
+  },
+  {
+    "id": 379,
+    "kanji": "洋服",
+    "hiragana": "ようふく",
+    "romaji": "youfuku",
+    "meaning": "quần áo kiểu phương Tây"
+  },
+  {
+    "id": 380,
+    "kanji": "横",
+    "hiragana": "よこ",
+    "romaji": "yoko",
+    "meaning": "bên cạnh, bên, chiều rộng"
+  },
+  {
+    "id": 381,
+    "kanji": "四つ",
+    "hiragana": "よっつ",
+    "romaji": "yottsu",
+    "meaning": "bốn cái (đếm đồ vật nói\nchung)"
+  },
+  {
+    "id": 382,
+    "kanji": "夜",
+    "hiragana": "よる",
+    "romaji": "yoru",
+    "meaning": "buổi tối, ban đêm"
+  },
+  {
+    "id": 383,
+    "kanji": "来月",
+    "hiragana": "らいげつ",
+    "romaji": "raigetsu",
+    "meaning": "tháng sau"
+  },
+  {
+    "id": 384,
+    "kanji": "来週",
+    "hiragana": "らいしゅう",
+    "romaji": "raishuu",
+    "meaning": "tuần sau"
+  },
+  {
+    "id": 385,
+    "kanji": "来年",
+    "hiragana": "らいねん",
+    "romaji": "rainen",
+    "meaning": "năm sau"
+  },
+  {
+    "id": 386,
+    "kanji": "",
+    "hiragana": "ラジオ",
+    "romaji": "rajio",
+    "meaning": "radio"
+  },
+  {
+    "id": 387,
+    "kanji": "ラジカセ / ラジオカセット",
+    "hiragana": "rajikase / rajio\nkasetto",
+    "romaji": "",
+    "meaning": "đài cassette"
+  },
+  {
+    "id": 388,
+    "kanji": "留学生",
+    "hiragana": "りゅうがくせい",
+    "romaji": "ryuugakusei",
+    "meaning": "du học sinh"
+  },
+  {
+    "id": 389,
+    "kanji": "両親",
+    "hiragana": "りょうしん",
+    "romaji": "ryoushin",
+    "meaning": "bố mẹ"
+  },
+  {
+    "id": 390,
+    "kanji": "料理",
+    "hiragana": "りょうり",
+    "romaji": "ryouri",
+    "meaning": "nấu ăn, món ăn"
+  },
+  {
+    "id": 391,
+    "kanji": "旅行",
+    "hiragana": "りょこう",
+    "romaji": "ryokou",
+    "meaning": "du lịch"
+  },
+  {
+    "id": 392,
+    "kanji": "",
+    "hiragana": "ゼロ",
+    "romaji": "zero",
+    "meaning": "số 0"
+  },
+  {
+    "id": 393,
+    "kanji": "冷蔵庫",
+    "hiragana": "れいぞうこ",
+    "romaji": "reizouko",
+    "meaning": "tủ lạnh"
+  },
+  {
+    "id": 394,
+    "kanji": "",
+    "hiragana": "レストラン",
+    "romaji": "resutoran",
+    "meaning": "nhà hàng"
+  },
+  {
+    "id": 395,
+    "kanji": "廊下",
+    "hiragana": "ろうか",
+    "romaji": "rouka",
+    "meaning": "hành lang"
+  },
+  {
+    "id": 396,
+    "kanji": "六",
+    "hiragana": "ろく",
+    "romaji": "roku",
+    "meaning": "sáu"
+  },
+  {
+    "id": 397,
+    "kanji": "",
+    "hiragana": "ワイシャツ",
+    "romaji": "waishatsu",
+    "meaning": "áo sơ mi"
+  },
+  {
+    "id": 398,
+    "kanji": "私",
+    "hiragana": "わたくし",
+    "romaji": "watakushi",
+    "meaning": "tôi (khiêm nhường ngữ)"
+  },
+  {
+    "id": 399,
+    "kanji": "私",
+    "hiragana": "わたし",
+    "romaji": "watashi",
+    "meaning": "Tôi"
+  },
+  {
+    "id": 400,
+    "kanji": "会う",
+    "hiragana": "あう",
+    "romaji": "Au",
+    "meaning": "Gặp mặt"
+  },
+  {
+    "id": 401,
+    "kanji": "開く",
+    "hiragana": "あく",
+    "romaji": "Aku",
+    "meaning": "Mở (tự động từ)"
+  },
+  {
+    "id": 402,
+    "kanji": "開ける",
+    "hiragana": "あける",
+    "romaji": "Akeru",
+    "meaning": "Mở (tha động từ)"
+  },
+  {
+    "id": 403,
+    "kanji": "上げる",
+    "hiragana": "あげる",
+    "romaji": "Ageru",
+    "meaning": "Nâng lên, tăng lên"
+  },
+  {
+    "id": 404,
+    "kanji": "遊ぶ",
+    "hiragana": "あそぶ",
+    "romaji": "Asobu",
+    "meaning": "Chơi"
+  },
+  {
+    "id": 405,
+    "kanji": "浴びる",
+    "hiragana": "あびる",
+    "romaji": "Abiru",
+    "meaning": "Tắm (vòi hoa sen)"
+  },
+  {
+    "id": 406,
+    "kanji": "洗う",
+    "hiragana": "あらう",
+    "romaji": "Arau",
+    "meaning": "Rửa"
+  },
+  {
+    "id": 407,
+    "kanji": "",
+    "hiragana": "ある",
+    "romaji": "Aru",
+    "meaning": "Có (dùng cho đồ vật, vật vô tri vô giác)"
+  },
+  {
+    "id": 408,
+    "kanji": "歩く",
+    "hiragana": "あるく",
+    "romaji": "Aruku",
+    "meaning": "Đi bộ"
+  },
+  {
+    "id": 409,
+    "kanji": "",
+    "hiragana": "いる",
+    "romaji": "Iru",
+    "meaning": "Có (được sử dụng cho người và động vật)"
+  },
+  {
+    "id": 410,
+    "kanji": "要る",
+    "hiragana": "いる",
+    "romaji": "Iru",
+    "meaning": "Cần"
+  },
+  {
+    "id": 411,
+    "kanji": "入れる",
+    "hiragana": "いれる",
+    "romaji": "Ireru",
+    "meaning": "Cho vào, đưa vào"
+  },
+  {
+    "id": 412,
+    "kanji": "歌う",
+    "hiragana": "うたう",
+    "romaji": "Utau",
+    "meaning": "Hát"
+  },
+  {
+    "id": 413,
+    "kanji": "生まれる",
+    "hiragana": "うまれる",
+    "romaji": "Umareru",
+    "meaning": "Được sinh ra"
+  },
+  {
+    "id": 414,
+    "kanji": "売る",
+    "hiragana": "うる",
+    "romaji": "Uru",
+    "meaning": "Bán"
+  },
+  {
+    "id": 415,
+    "kanji": "教える",
+    "hiragana": "おしえる",
+    "romaji": "Oshieru",
+    "meaning": "Dạy, chỉ cho biết"
+  },
+  {
+    "id": 416,
+    "kanji": "覚える",
+    "hiragana": "おぼえる",
+    "romaji": "Oboeru",
+    "meaning": "Nhớ"
+  },
+  {
+    "id": 417,
+    "kanji": "降りる",
+    "hiragana": "おりる",
+    "romaji": "Oriru",
+    "meaning": "Xuống"
+  },
+  {
+    "id": 418,
+    "kanji": "終る",
+    "hiragana": "おわる",
+    "romaji": "Owaru",
+    "meaning": "Kết thúc"
+  },
+  {
+    "id": 419,
+    "kanji": "買う",
+    "hiragana": "かう",
+    "romaji": "Kau",
+    "meaning": "Mua"
+  },
+  {
+    "id": 420,
+    "kanji": "返す",
+    "hiragana": "かえす",
+    "romaji": "Kaesu",
+    "meaning": "Trả lại"
+  },
+  {
+    "id": 421,
+    "kanji": "帰る",
+    "hiragana": "かえる",
+    "romaji": "Kaeru",
+    "meaning": "Về"
+  },
+  {
+    "id": 422,
+    "kanji": "",
+    "hiragana": "かかる",
+    "romaji": "Kakaru",
+    "meaning": "Mất, tốn (thời gian, tiền bạc...)"
+  },
+  {
+    "id": 423,
+    "kanji": "書く",
+    "hiragana": "かく",
+    "romaji": "Kaku",
+    "meaning": "Viết"
+  },
+  {
+    "id": 424,
+    "kanji": "貸す",
+    "hiragana": "かす",
+    "romaji": "Kasu",
+    "meaning": "Cho vay, cho mượn"
+  },
+  {
+    "id": 425,
+    "kanji": "借りる",
+    "hiragana": "かりる",
+    "romaji": "Kariru",
+    "meaning": "Vay, mượn"
+  },
+  {
+    "id": 426,
+    "kanji": "消える",
+    "hiragana": "きえる",
+    "romaji": "Kieru",
+    "meaning": "Biến mất, tắt (điện)"
+  },
+  {
+    "id": 427,
+    "kanji": "聞く",
+    "hiragana": "きく",
+    "romaji": "Kiku",
+    "meaning": "Nghe, hỏi"
+  },
+  {
+    "id": 428,
+    "kanji": "切る",
+    "hiragana": "きる",
+    "romaji": "Kiru",
+    "meaning": "Cắt"
+  },
+  {
+    "id": 429,
+    "kanji": "着る",
+    "hiragana": "きる",
+    "romaji": "Kiru",
+    "meaning": "Mặc (đưa từ trên xuống như áo...)"
+  },
+  {
+    "id": 430,
+    "kanji": "曇る",
+    "hiragana": "くもる",
+    "romaji": "Kumoru",
+    "meaning": "Có mây, nhiều mây"
+  },
+  {
+    "id": 431,
+    "kanji": "来る",
+    "hiragana": "くる",
+    "romaji": "Kuru",
+    "meaning": "Đến"
+  },
+  {
+    "id": 432,
+    "kanji": "答える",
+    "hiragana": "こたえる",
+    "romaji": "Kotaeru",
+    "meaning": "Trả lời"
+  },
+  {
+    "id": 433,
+    "kanji": "",
+    "hiragana": "コピーする",
+    "romaji": "Kopī suru",
+    "meaning": "Copy, sao chép"
+  },
+  {
+    "id": 434,
+    "kanji": "困る",
+    "hiragana": "こまる",
+    "romaji": "Komaru",
+    "meaning": "Bối rối, khó khăn, rắc rối"
+  },
+  {
+    "id": 435,
+    "kanji": "散歩",
+    "hiragana": "さんぽする",
+    "romaji": "Sanpo suru",
+    "meaning": "Đi dạo"
+  },
+  {
+    "id": 436,
+    "kanji": "閉まる",
+    "hiragana": "しまる",
+    "romaji": "Shimaru",
+    "meaning": "Đóng (tự động từ)"
+  },
+  {
+    "id": 437,
+    "kanji": "閉める",
+    "hiragana": "しめる",
+    "romaji": "Shimeru",
+    "meaning": "Đóng (tha động từ)"
+  },
+  {
+    "id": 438,
+    "kanji": "知る",
+    "hiragana": "しる",
+    "romaji": "Shiru",
+    "meaning": "Biết"
+  },
+  {
+    "id": 439,
+    "kanji": "吸う",
+    "hiragana": "すう",
+    "romaji": "Suu",
+    "meaning": "Hút"
+  },
+  {
+    "id": 440,
+    "kanji": "住む",
+    "hiragana": "すむ",
+    "romaji": "Sumu",
+    "meaning": "Sống"
+  },
+  {
+    "id": 441,
+    "kanji": "",
+    "hiragana": "する",
+    "romaji": "Suru",
+    "meaning": "Làm, chơi, tổ chức..."
+  },
+  {
+    "id": 442,
+    "kanji": "座る",
+    "hiragana": "すわる",
+    "romaji": "Suwaru",
+    "meaning": "Ngồi"
+  },
+  {
+    "id": 443,
+    "kanji": "掃除する",
+    "hiragana": "そうじする",
+    "romaji": "Souji suru",
+    "meaning": "Dọn dẹp"
+  },
+  {
+    "id": 444,
+    "kanji": "出す",
+    "hiragana": "だす",
+    "romaji": "Dasu",
+    "meaning": "Lấy ra, nộp, gửi (thư)"
+  },
+  {
+    "id": 445,
+    "kanji": "立つ",
+    "hiragana": "たつ",
+    "romaji": "Tatsu",
+    "meaning": "Đứng"
+  },
+  {
+    "id": 446,
+    "kanji": "頼む",
+    "hiragana": "たのむ",
+    "romaji": "Tanomu",
+    "meaning": "Nhờ"
+  },
+  {
+    "id": 447,
+    "kanji": "食べる",
+    "hiragana": "たべる",
+    "romaji": "Taberu",
+    "meaning": "Ăn"
+  },
+  {
+    "id": 448,
+    "kanji": "使う",
+    "hiragana": "つかう",
+    "romaji": "Tsukau",
+    "meaning": "Sử dụng"
+  },
+  {
+    "id": 449,
+    "kanji": "疲れる",
+    "hiragana": "つかれる",
+    "romaji": "Tsukareru",
+    "meaning": "Mệt mỏi"
+  },
+  {
+    "id": 450,
+    "kanji": "着く",
+    "hiragana": "つく",
+    "romaji": "Tsuku",
+    "meaning": "Đến"
+  },
+  {
+    "id": 451,
+    "kanji": "作る",
+    "hiragana": "つくる",
+    "romaji": "Tsukuru",
+    "meaning": "Làm, chế tạo, nấu ăn"
+  },
+  {
+    "id": 452,
+    "kanji": "",
+    "hiragana": "つける",
+    "romaji": "Tsukeru",
+    "meaning": "Bật"
+  },
+  {
+    "id": 453,
+    "kanji": "勤める",
+    "hiragana": "つとめる",
+    "romaji": "Tsutomeru",
+    "meaning": "Làm việc"
+  },
+  {
+    "id": 454,
+    "kanji": "出かける",
+    "hiragana": "でかける",
+    "romaji": "Dekakeru",
+    "meaning": "Đi ra ngoài"
+  },
+  {
+    "id": 455,
+    "kanji": "出る",
+    "hiragana": "でる",
+    "romaji": "Deru",
+    "meaning": "Ra, rời khỏi, xuất hiện"
+  },
+  {
+    "id": 456,
+    "kanji": "飛ぶ",
+    "hiragana": "とぶ",
+    "romaji": "Tobu",
+    "meaning": "Bay, nhảy"
+  },
+  {
+    "id": 457,
+    "kanji": "止まる",
+    "hiragana": "とまる",
+    "romaji": "Tomaru",
+    "meaning": "Dừng lại (tự động từ)"
+  },
+  {
+    "id": 458,
+    "kanji": "止める",
+    "hiragana": "とめる",
+    "romaji": "Tomeru",
+    "meaning": "Đỗ, đậu (xe, đài...) (tha động từ)"
+  },
+  {
+    "id": 459,
+    "kanji": "取る",
+    "hiragana": "とる",
+    "romaji": "Toru",
+    "meaning": "Lấy (muối...)"
+  },
+  {
+    "id": 460,
+    "kanji": "撮る",
+    "hiragana": "とる",
+    "romaji": "Toru",
+    "meaning": "Chụp ảnh hoặc quay phim"
+  },
+  {
+    "id": 461,
+    "kanji": "鳴く",
+    "hiragana": "なく",
+    "romaji": "Naku",
+    "meaning": "Kêu, hót"
+  },
+  {
+    "id": 462,
+    "kanji": "無くす",
+    "hiragana": "なくす",
+    "romaji": "Nakusu",
+    "meaning": "Làm mất, đánh mất"
+  },
+  {
+    "id": 463,
+    "kanji": "習う",
+    "hiragana": "ならう",
+    "romaji": "Narau",
+    "meaning": "Học"
+  },
+  {
+    "id": 464,
+    "kanji": "並ぶ",
+    "hiragana": "ならぶ",
+    "romaji": "Narabu",
+    "meaning": "Xếp hàng, ngang bằng"
+  },
+  {
+    "id": 465,
+    "kanji": "並べる",
+    "hiragana": "ならべる",
+    "romaji": "Naraberu",
+    "meaning": "Sắp xếp, bố trí"
+  },
+  {
+    "id": 466,
+    "kanji": "",
+    "hiragana": "なる",
+    "romaji": "Naru",
+    "meaning": "Trở nên, trở thành"
+  },
+  {
+    "id": 467,
+    "kanji": "脱ぐ",
+    "hiragana": "ぬぐ",
+    "romaji": "Nugu",
+    "meaning": "Cởi"
+  },
+  {
+    "id": 468,
+    "kanji": "寝る",
+    "hiragana": "ねる",
+    "romaji": "Neru",
+    "meaning": "Đi ngủ, ngủ"
+  },
+  {
+    "id": 469,
+    "kanji": "登る",
+    "hiragana": "のぼる",
+    "romaji": "Noboru",
+    "meaning": "Leo lên"
+  },
+  {
+    "id": 470,
+    "kanji": "飲む",
+    "hiragana": "のむ",
+    "romaji": "Nomu",
+    "meaning": "Uống"
+  },
+  {
+    "id": 471,
+    "kanji": "乗る",
+    "hiragana": "のる",
+    "romaji": "Noru",
+    "meaning": "Lên (tàu, xe...), cưỡi ngựa"
+  },
+  {
+    "id": 472,
+    "kanji": "入る",
+    "hiragana": "はいる",
+    "romaji": "Hairu",
+    "meaning": "Vào, đi vào"
+  },
+  {
+    "id": 473,
+    "kanji": "履く",
+    "hiragana": "はく",
+    "romaji": "Haku",
+    "meaning": "Mặc, đi (từ dưới lên)"
+  },
+  {
+    "id": 474,
+    "kanji": "始まる",
+    "hiragana": "はじまる",
+    "romaji": "Hajimaru",
+    "meaning": "Được bắt đầu (tự động từ)"
+  },
+  {
+    "id": 475,
+    "kanji": "始める",
+    "hiragana": "はじめる",
+    "romaji": "Hajimeru",
+    "meaning": "Bắt đầu (tha động từ)"
+  },
+  {
+    "id": 476,
+    "kanji": "走る",
+    "hiragana": "はしる",
+    "romaji": "Hashiru",
+    "meaning": "Chạy"
+  },
+  {
+    "id": 477,
+    "kanji": "働く",
+    "hiragana": "はたらく",
+    "romaji": "Hataraku",
+    "meaning": "Làm việc"
+  },
+  {
+    "id": 478,
+    "kanji": "話す",
+    "hiragana": "はなす",
+    "romaji": "Hanasu",
+    "meaning": "Nói chuyện"
+  },
+  {
+    "id": 479,
+    "kanji": "貼る",
+    "hiragana": "はる",
+    "romaji": "Haru",
+    "meaning": "Dán"
+  },
+  {
+    "id": 480,
+    "kanji": "晴れる",
+    "hiragana": "はれる",
+    "romaji": "Hareru",
+    "meaning": "Có nắng, thời tiết đẹp"
+  },
+  {
+    "id": 481,
+    "kanji": "引く",
+    "hiragana": "ひく",
+    "romaji": "Hiku",
+    "meaning": "Kéo"
+  },
+  {
+    "id": 482,
+    "kanji": "弾く",
+    "hiragana": "ひく",
+    "romaji": "Hiku",
+    "meaning": "Chơi (nhạc cụ)"
+  },
+  {
+    "id": 483,
+    "kanji": "吹く",
+    "hiragana": "ふく",
+    "romaji": "Fuku",
+    "meaning": "Thổi"
+  },
+  {
+    "id": 484,
+    "kanji": "降る",
+    "hiragana": "ふる",
+    "romaji": "Furu",
+    "meaning": "Rơi (mưa, tuyết)"
+  },
+  {
+    "id": 485,
+    "kanji": "勉強する",
+    "hiragana": "べんきょうする",
+    "romaji": "Benkyou suru",
+    "meaning": "Học"
+  },
+  {
+    "id": 486,
+    "kanji": "曲る",
+    "hiragana": "まがる",
+    "romaji": "Magaru",
+    "meaning": "Rẽ, cong"
+  },
+  {
+    "id": 487,
+    "kanji": "待つ",
+    "hiragana": "まつ",
+    "romaji": "Matsu",
+    "meaning": "Chờ đợi"
+  },
+  {
+    "id": 488,
+    "kanji": "右",
+    "hiragana": "みぎ",
+    "romaji": "Migi",
+    "meaning": "Bên phải"
+  },
+  {
+    "id": 489,
+    "kanji": "見せる",
+    "hiragana": "みせる",
+    "romaji": "Miseru",
+    "meaning": "Cho xem"
+  },
+  {
+    "id": 490,
+    "kanji": "見る",
+    "hiragana": "みる",
+    "romaji": "Miru",
+    "meaning": "Xem, nhìn, trông"
+  },
+  {
+    "id": 491,
+    "kanji": "持つ",
+    "hiragana": "もつ",
+    "romaji": "Motsu",
+    "meaning": "Mang, cầm"
+  },
+  {
+    "id": 492,
+    "kanji": "休む",
+    "hiragana": "やすむ",
+    "romaji": "Yasumu",
+    "meaning": "Nghỉ, nghỉ ngơi"
+  },
+  {
+    "id": 493,
+    "kanji": "",
+    "hiragana": "やる",
+    "romaji": "Yaru",
+    "meaning": "Làm"
+  },
+  {
+    "id": 494,
+    "kanji": "呼ぶ",
+    "hiragana": "よぶ",
+    "romaji": "Yobu",
+    "meaning": "Gọi"
+  },
+  {
+    "id": 495,
+    "kanji": "読む",
+    "hiragana": "よむ",
+    "romaji": "Yomu",
+    "meaning": "Đọc"
+  },
+  {
+    "id": 496,
+    "kanji": "練習",
+    "hiragana": "れんしゅうする",
+    "romaji": "Renshuu suru",
+    "meaning": "Thực hành, luyện tập"
+  },
+  {
+    "id": 497,
+    "kanji": "分かる",
+    "hiragana": "わかる",
+    "romaji": "Wakaru",
+    "meaning": "Hiểu, nắm được"
+  },
+  {
+    "id": 498,
+    "kanji": "忘れる",
+    "hiragana": "わすれる",
+    "romaji": "Wasureru",
+    "meaning": "Quên"
+  },
+  {
+    "id": 499,
+    "kanji": "渡す",
+    "hiragana": "わたす",
+    "romaji": "Watasu",
+    "meaning": "Đưa cho"
+  },
+  {
+    "id": 500,
+    "kanji": "渡る",
+    "hiragana": "わたる",
+    "romaji": "Wataru",
+    "meaning": "Đi qua, băng qua"
+  },
+  {
+    "id": 501,
+    "kanji": "青い",
+    "hiragana": "あおい",
+    "romaji": "Aoi",
+    "meaning": "Xanh da trời"
+  },
+  {
+    "id": 502,
+    "kanji": "赤い",
+    "hiragana": "あかい",
+    "romaji": "Akai",
+    "meaning": "Màu đỏ"
+  },
+  {
+    "id": 503,
+    "kanji": "明い",
+    "hiragana": "あかるい",
+    "romaji": "Akarui",
+    "meaning": "Sáng, tươi sáng, vui vẻ, sáng sủa"
+  },
+  {
+    "id": 504,
+    "kanji": "暖かい",
+    "hiragana": "あたたかい",
+    "romaji": "Atatakai",
+    "meaning": "Ấm áp"
+  },
+  {
+    "id": 505,
+    "kanji": "新しい",
+    "hiragana": "あたらしい",
+    "romaji": "Atarashii",
+    "meaning": "Mới"
+  },
+  {
+    "id": 506,
+    "kanji": "暑い",
+    "hiragana": "あつい",
+    "romaji": "Atsui",
+    "meaning": "Nóng (thời tiết)"
+  },
+  {
+    "id": 507,
+    "kanji": "熱い",
+    "hiragana": "あつい",
+    "romaji": "Atsui",
+    "meaning": "Nóng (khi chạm vào)"
+  },
+  {
+    "id": 508,
+    "kanji": "厚い",
+    "hiragana": "あつい",
+    "romaji": "Atsui",
+    "meaning": "Dày"
+  },
+  {
+    "id": 509,
+    "kanji": "危ない",
+    "hiragana": "あぶない",
+    "romaji": "Abunai",
+    "meaning": "Nguy hiểm"
+  },
+  {
+    "id": 510,
+    "kanji": "甘い",
+    "hiragana": "あまい",
+    "romaji": "Amai",
+    "meaning": "Ngọt, ngọt ngào"
+  },
+  {
+    "id": 511,
+    "kanji": "",
+    "hiragana": "いい/よい",
+    "romaji": "Ii/Yoi",
+    "meaning": "Tốt"
+  },
+  {
+    "id": 512,
+    "kanji": "忙しい",
+    "hiragana": "いそがしい",
+    "romaji": "Isogashii",
+    "meaning": "Bận rộn"
+  },
+  {
+    "id": 513,
+    "kanji": "痛い",
+    "hiragana": "いたい",
+    "romaji": "Itai",
+    "meaning": "Đau"
+  },
+  {
+    "id": 514,
+    "kanji": "",
+    "hiragana": "うるさい",
+    "romaji": "Urusai",
+    "meaning": "Ồn ào, gây phiền nhiễu"
+  },
+  {
+    "id": 515,
+    "kanji": "美味しい",
+    "hiragana": "おいしい",
+    "romaji": "Oishii",
+    "meaning": "Ngon"
+  },
+  {
+    "id": 516,
+    "kanji": "多い",
+    "hiragana": "おおい",
+    "romaji": "Ooi",
+    "meaning": "Nhiều"
+  },
+  {
+    "id": 517,
+    "kanji": "大きい",
+    "hiragana": "おおきい",
+    "romaji": "Ookii",
+    "meaning": "To, lớn"
+  },
+  {
+    "id": 518,
+    "kanji": "遅い",
+    "hiragana": "おそい",
+    "romaji": "Osoi",
+    "meaning": "Muộn, chậm"
+  },
+  {
+    "id": 519,
+    "kanji": "重い",
+    "hiragana": "おもい",
+    "romaji": "Omoi",
+    "meaning": "Nặng"
+  },
+  {
+    "id": 520,
+    "kanji": "",
+    "hiragana": "おもしろい",
+    "romaji": "Omoshiroi",
+    "meaning": "Thú vị"
+  },
+  {
+    "id": 521,
+    "kanji": "辛い",
+    "hiragana": "からい",
+    "romaji": "Karai",
+    "meaning": "Cay"
+  },
+  {
+    "id": 522,
+    "kanji": "軽い",
+    "hiragana": "かるい",
+    "romaji": "Karui",
+    "meaning": "Nhẹ"
+  },
+  {
+    "id": 523,
+    "kanji": "",
+    "hiragana": "かわいい",
+    "romaji": "Kawaii",
+    "meaning": "Dễ thương"
+  },
+  {
+    "id": 524,
+    "kanji": "黄色い",
+    "hiragana": "きいろい",
+    "romaji": "Kiiroi",
+    "meaning": "Màu vàng"
+  },
+  {
+    "id": 525,
+    "kanji": "汚い",
+    "hiragana": "きたない",
+    "romaji": "Kitanai",
+    "meaning": "Bẩn"
+  },
+  {
+    "id": 526,
+    "kanji": "暗い",
+    "hiragana": "くらい",
+    "romaji": "Kurai",
+    "meaning": "Tối"
+  },
+  {
+    "id": 527,
+    "kanji": "寒い",
+    "hiragana": "さむい",
+    "romaji": "Samui",
+    "meaning": "Lạnh"
+  },
+  {
+    "id": 528,
+    "kanji": "白い",
+    "hiragana": "しろい",
+    "romaji": "Shiroi",
+    "meaning": "Trắng"
+  },
+  {
+    "id": 529,
+    "kanji": "少ない",
+    "hiragana": "すくない",
+    "romaji": "Sukunai",
+    "meaning": "Một chút, một ít"
+  },
+  {
+    "id": 530,
+    "kanji": "涼しい",
+    "hiragana": "すずしい",
+    "romaji": "Suzushii",
+    "meaning": "Mát"
+  },
+  {
+    "id": 531,
+    "kanji": "狭い",
+    "hiragana": "せまい",
+    "romaji": "Semai",
+    "meaning": "Hẹp"
+  },
+  {
+    "id": 532,
+    "kanji": "楽しい",
+    "hiragana": "たのしい",
+    "romaji": "Tanoshii",
+    "meaning": "Vui"
+  },
+  {
+    "id": 533,
+    "kanji": "小さい",
+    "hiragana": "ちいさい",
+    "romaji": "Chīsai",
+    "meaning": "Nhỏ"
+  },
+  {
+    "id": 534,
+    "kanji": "近い",
+    "hiragana": "ちかい",
+    "romaji": "Chikai",
+    "meaning": "Gần"
+  },
+  {
+    "id": 535,
+    "kanji": "",
+    "hiragana": "つまらない",
+    "romaji": "Tsumaranai",
+    "meaning": "Nhàm chán"
+  },
+  {
+    "id": 536,
+    "kanji": "冷たい",
+    "hiragana": "つめたい",
+    "romaji": "Tsumetai",
+    "meaning": "Lạnh, buốt (khi chạm vào)"
+  },
+  {
+    "id": 537,
+    "kanji": "遠い",
+    "hiragana": "とおい",
+    "romaji": "Tōi",
+    "meaning": "Xa"
+  },
+  {
+    "id": 538,
+    "kanji": "長い",
+    "hiragana": "ながい",
+    "romaji": "Nagai",
+    "meaning": "Dài"
+  },
+  {
+    "id": 539,
+    "kanji": "早い",
+    "hiragana": "はやい",
+    "romaji": "Hayai",
+    "meaning": "Sớm"
+  },
+  {
+    "id": 540,
+    "kanji": "速い",
+    "hiragana": "はやい",
+    "romaji": "Hayai",
+    "meaning": "Nhanh chóng"
+  },
+  {
+    "id": 541,
+    "kanji": "広い",
+    "hiragana": "ひろい",
+    "romaji": "Hiroi",
+    "meaning": "Rộng rãi, rộng"
+  },
+  {
+    "id": 542,
+    "kanji": "太い",
+    "hiragana": "ふとい",
+    "romaji": "Futoi",
+    "meaning": "Béo"
+  },
+  {
+    "id": 543,
+    "kanji": "古い",
+    "hiragana": "ふるい",
+    "romaji": "Furui",
+    "meaning": "Cũ (không dùng cho người)"
+  },
+  {
+    "id": 544,
+    "kanji": "欲しい",
+    "hiragana": "ほしい",
+    "romaji": "Hoshii",
+    "meaning": "Muốn"
+  },
+  {
+    "id": 545,
+    "kanji": "細い",
+    "hiragana": "ほそい",
+    "romaji": "Hosoi",
+    "meaning": "Gầy, hẹp, thon"
+  },
+  {
+    "id": 546,
+    "kanji": "",
+    "hiragana": "まずい",
+    "romaji": "Mazui",
+    "meaning": "Dở (món ăn), không ổn rồi"
+  },
+  {
+    "id": 547,
+    "kanji": "丸い",
+    "hiragana": "まるい",
+    "romaji": "Marui",
+    "meaning": "Tròn"
+  },
+  {
+    "id": 548,
+    "kanji": "短い",
+    "hiragana": "みじかい",
+    "romaji": "Mijikai",
+    "meaning": "Ngắn"
+  },
+  {
+    "id": 549,
+    "kanji": "難しい",
+    "hiragana": "むずかしい",
+    "romaji": "Muzukashii",
+    "meaning": "Khó"
+  },
+  {
+    "id": 550,
+    "kanji": "安い",
+    "hiragana": "やすい",
+    "romaji": "Yasui",
+    "meaning": "Giá rẻ"
+  },
+  {
+    "id": 551,
+    "kanji": "弱い",
+    "hiragana": "よわい",
+    "romaji": "Yowai",
+    "meaning": "Yếu"
+  },
+  {
+    "id": 552,
+    "kanji": "強い",
+    "hiragana": "つよい",
+    "romaji": "Tsuyoi",
+    "meaning": "Mạnh"
+  },
+  {
+    "id": 553,
+    "kanji": "若い",
+    "hiragana": "わかい",
+    "romaji": "Wakai",
+    "meaning": "Trẻ"
+  },
+  {
+    "id": 554,
+    "kanji": "悪い",
+    "hiragana": "わるい",
+    "romaji": "Warui",
+    "meaning": "Xấu"
+  },
+  {
+    "id": 555,
+    "kanji": "嫌",
+    "hiragana": "いや",
+    "romaji": "Iya",
+    "meaning": "Chán, ghét, khó chịu"
+  },
+  {
+    "id": 556,
+    "kanji": "",
+    "hiragana": "いろいろ",
+    "romaji": "Iroiro",
+    "meaning": "Nhiều, đa dạng"
+  },
+  {
+    "id": 557,
+    "kanji": "",
+    "hiragana": "すてき",
+    "romaji": "Suteki",
+    "meaning": "Đẹp, hay"
+  },
+  {
+    "id": 558,
+    "kanji": "嫌い",
+    "hiragana": "きらい",
+    "romaji": "Kirai",
+    "meaning": "Ghét, không thích"
+  },
+  {
+    "id": 559,
+    "kanji": "",
+    "hiragana": "きれい",
+    "romaji": "Kirei",
+    "meaning": "Đẹp, sạch sẽ"
+  },
+  {
+    "id": 560,
+    "kanji": "結構",
+    "hiragana": "けっこう",
+    "romaji": "Kekkō",
+    "meaning": "Đủ"
+  },
+  {
+    "id": 561,
+    "kanji": "元気",
+    "hiragana": "げんき",
+    "romaji": "Genki",
+    "meaning": "Khỏe mạnh"
+  },
+  {
+    "id": 562,
+    "kanji": "静か",
+    "hiragana": "しずか",
+    "romaji": "Shizuka",
+    "meaning": "Yên tĩnh"
+  },
+  {
+    "id": 563,
+    "kanji": "上手",
+    "hiragana": "じょうず",
+    "romaji": "Jōzu",
+    "meaning": "Giỏi, khéo"
+  },
+  {
+    "id": 564,
+    "kanji": "丈夫",
+    "hiragana": "じょうぶ",
+    "romaji": "Jōbu",
+    "meaning": "Chắc, bền"
+  },
+  {
+    "id": 565,
+    "kanji": "好き",
+    "hiragana": "すき",
+    "romaji": "Suki",
+    "meaning": "Thích"
+  },
+  {
+    "id": 566,
+    "kanji": "大丈夫",
+    "hiragana": "だいじょうぶ",
+    "romaji": "Daijōbu",
+    "meaning": "Không sao, không vấn đề gì"
+  },
+  {
+    "id": 567,
+    "kanji": "大好き",
+    "hiragana": "だいすき",
+    "romaji": "Daisuki",
+    "meaning": "Rất thích"
+  },
+  {
+    "id": 568,
+    "kanji": "大切",
+    "hiragana": "たいせつ",
+    "romaji": "Taisetsu",
+    "meaning": "Quan trọng, quý giá"
+  },
+  {
+    "id": 569,
+    "kanji": "大変",
+    "hiragana": "たいへん",
+    "romaji": "Taihen",
+    "meaning": "Khó khăn, vất vả"
+  },
+  {
+    "id": 570,
+    "kanji": "小さな",
+    "hiragana": "ちいさな",
+    "romaji": "Chīsana",
+    "meaning": "Nhỏ"
+  },
+  {
+    "id": 571,
+    "kanji": "賑やか",
+    "hiragana": "にぎやか",
+    "romaji": "Nigiyaka",
+    "meaning": "Náo nhiệt"
+  },
+  {
+    "id": 572,
+    "kanji": "暇",
+    "hiragana": "ひま",
+    "romaji": "Hima",
+    "meaning": "Rảnh rỗi"
+  },
+  {
+    "id": 573,
+    "kanji": "便利",
+    "hiragana": "べんり",
+    "romaji": "Benri",
+    "meaning": "Tiện lợi"
+  },
+  {
+    "id": 574,
+    "kanji": "",
+    "hiragana": "りっぱ",
+    "romaji": "Rippa",
+    "meaning": "Lộng lẫy, tuyệt vời"
+  },
+  {
+    "id": 575,
+    "kanji": "不便",
+    "hiragana": "ふべん",
+    "romaji": "Fuben",
+    "meaning": "Bất tiện"
+  },
+  {
+    "id": 576,
+    "kanji": "簡単",
+    "hiragana": "かんたん",
+    "romaji": "Kantan",
+    "meaning": "Đơn giản"
+  },
+  {
+    "id": 577,
+    "kanji": "",
+    "hiragana": "あまり",
+    "romaji": "Amari",
+    "meaning": "Không~lắm"
+  },
+  {
+    "id": 578,
+    "kanji": "一緒",
+    "hiragana": "いっしょ",
+    "romaji": "Issho",
+    "meaning": "Cùng nhau"
+  },
+  {
+    "id": 579,
+    "kanji": "後",
+    "hiragana": "あと",
+    "romaji": "Ato",
+    "meaning": "Sau đó"
+  },
+  {
+    "id": 580,
+    "kanji": "",
+    "hiragana": "あのう",
+    "romaji": "Anō",
+    "meaning": "À, ừm... (dùng trong giao tiếp, biểu thị sự ngại\nngùng, do dự)"
+  },
+  {
+    "id": 581,
+    "kanji": "",
+    "hiragana": "いいえ",
+    "romaji": "Iie",
+    "meaning": "Không"
+  },
+  {
+    "id": 582,
+    "kanji": "",
+    "hiragana": "いかが",
+    "romaji": "Ikaga",
+    "meaning": "Như thế nào (cách nói lịch sự của どう）"
+  },
+  {
+    "id": 583,
+    "kanji": "",
+    "hiragana": "いくつ",
+    "romaji": "Ikutsu",
+    "meaning": "Bao nhiêu cái? Bao nhiêu tuổi?"
+  },
+  {
+    "id": 584,
+    "kanji": "",
+    "hiragana": "いくら",
+    "romaji": "Ikura",
+    "meaning": "Bao nhiêu? (Hỏi giá tiền)"
+  },
+  {
+    "id": 585,
+    "kanji": "",
+    "hiragana": "いつ",
+    "romaji": "Itsu",
+    "meaning": "Khi nào"
+  },
+  {
+    "id": 586,
+    "kanji": "",
+    "hiragana": "いつも",
+    "romaji": "Itsumo",
+    "meaning": "Luôn luôn"
+  },
+  {
+    "id": 587,
+    "kanji": "",
+    "hiragana": "ええ",
+    "romaji": "Ee",
+    "meaning": "Vâng, có.. (bằng はい）"
+  },
+  {
+    "id": 588,
+    "kanji": "先",
+    "hiragana": "さき",
+    "romaji": "Saki",
+    "meaning": "Trước (làm cái gì đó trước)"
+  },
+  {
+    "id": 589,
+    "kanji": "",
+    "hiragana": "しかし",
+    "romaji": "Shikashi",
+    "meaning": "Tuy nhiên"
+  },
+  {
+    "id": 590,
+    "kanji": "",
+    "hiragana": "すぐに",
+    "romaji": "Sugu ni",
+    "meaning": "Ngay lập tức"
+  },
+  {
+    "id": 591,
+    "kanji": "",
+    "hiragana": "その",
+    "romaji": "Sono",
+    "meaning": "~Đó"
+  },
+  {
+    "id": 592,
+    "kanji": "",
+    "hiragana": "それから",
+    "romaji": "Sorekara",
+    "meaning": "Sau đó"
+  },
+  {
+    "id": 593,
+    "kanji": "",
+    "hiragana": "それでは",
+    "romaji": "Soredewa",
+    "meaning": "Vậy thì, thế thì"
+  },
+  {
+    "id": 594,
+    "kanji": "",
+    "hiragana": "たくさん",
+    "romaji": "Takusan",
+    "meaning": "Nhiều"
+  },
+  {
+    "id": 595,
+    "kanji": "",
+    "hiragana": "たぶん",
+    "romaji": "Tabun",
+    "meaning": "Có thể, có lẽ"
+  },
+  {
+    "id": 596,
+    "kanji": "誰",
+    "hiragana": "だれ",
+    "romaji": "Dare",
+    "meaning": "Ai, người nào"
+  },
+  {
+    "id": 597,
+    "kanji": "誰か",
+    "hiragana": "だれか",
+    "romaji": "Dareka",
+    "meaning": "Ai đó"
+  },
+  {
+    "id": 598,
+    "kanji": "",
+    "hiragana": "だんだん",
+    "romaji": "Dandan",
+    "meaning": "Dần"
+  },
+  {
+    "id": 599,
+    "kanji": "",
+    "hiragana": "ちょうど",
+    "romaji": "Chōdo",
+    "meaning": "Vừa đúng, vừa đủ"
+  },
+  {
+    "id": 600,
+    "kanji": "",
+    "hiragana": "ちょっと",
+    "romaji": "Chotto",
+    "meaning": "Một ít, một chút"
+  },
+  {
+    "id": 601,
+    "kanji": "次",
+    "hiragana": "つぎ",
+    "romaji": "Tsugi",
+    "meaning": "Tiếp theo"
+  },
+  {
+    "id": 602,
+    "kanji": "",
+    "hiragana": "どう",
+    "romaji": "Dō",
+    "meaning": "Như thế nào"
+  },
+  {
+    "id": 603,
+    "kanji": "",
+    "hiragana": "どうして",
+    "romaji": "Dōshite",
+    "meaning": "Tại sao"
+  },
+  {
+    "id": 604,
+    "kanji": "",
+    "hiragana": "どうぞ",
+    "romaji": "Dōzo",
+    "meaning": "Xin mời"
+  },
+  {
+    "id": 605,
+    "kanji": "",
+    "hiragana": "どこ",
+    "romaji": "Doko",
+    "meaning": "Chỗ nào"
+  },
+  {
+    "id": 606,
+    "kanji": "",
+    "hiragana": "どちら",
+    "romaji": "Dochira",
+    "meaning": "Phía nào"
+  },
+  {
+    "id": 607,
+    "kanji": "",
+    "hiragana": "どっち",
+    "romaji": "Dotchi",
+    "meaning": "Phía nào (thân mật của どちら)"
+  },
+  {
+    "id": 608,
+    "kanji": "",
+    "hiragana": "どれ",
+    "romaji": "Dore",
+    "meaning": "Cái nào"
+  },
+  {
+    "id": 609,
+    "kanji": "",
+    "hiragana": "なぜ",
+    "romaji": "Naze",
+    "meaning": "Tại sao"
+  },
+  {
+    "id": 610,
+    "kanji": "",
+    "hiragana": "など",
+    "romaji": "Nado",
+    "meaning": "Vân"
+  },
+  {
+    "id": 611,
+    "kanji": "",
+    "hiragana": "はい",
+    "romaji": "Hai",
+    "meaning": "Vâng, có"
+  },
+  {
+    "id": 612,
+    "kanji": "",
+    "hiragana": "ほか",
+    "romaji": "Hoka",
+    "meaning": "Khác"
+  },
+  {
+    "id": 613,
+    "kanji": "",
+    "hiragana": "まっ\nすぐ",
+    "romaji": "Massugu",
+    "meaning": "Thẳng"
+  },
+  {
+    "id": 614,
+    "kanji": "",
+    "hiragana": "さあ",
+    "romaji": "Sā",
+    "meaning": "Dùng để chuyển đề tài"
+  }
+]
