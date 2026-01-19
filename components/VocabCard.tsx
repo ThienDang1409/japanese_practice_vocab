@@ -14,12 +14,10 @@ interface VocabCardProps {
 export default function VocabCard({ vocab, showKanji = true }: VocabCardProps) {
     return (
         <div className="vocab-card">
-            <div className="vocab-question">
-                {showKanji && vocab.kanji ? vocab.kanji : vocab.hiragana}
+            <div className="answer-kanji">{vocab.kanji || vocab.hiragana}</div>
+            <div className="answer-reading">
+                {vocab.hiragana} {vocab.romaji && `(${vocab.romaji})`}
             </div>
-            {showKanji && vocab.kanji && (
-                <div className="vocab-reading">{vocab.hiragana}</div>
-            )}
         </div>
     );
 }
