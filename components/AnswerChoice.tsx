@@ -25,10 +25,10 @@ export default function AnswerChoice({
             onClick={onClick}
             disabled={disabled}
         >
-            <div className="answer-kanji">{vocab.kanji || vocab.hiragana}</div>
+            {/* <div className="answer-kanji">{vocab.kanji || vocab.hiragana}</div>
             <div className="answer-reading">
                 {vocab.hiragana} {vocab.romaji && `(${vocab.romaji})`}
-            </div>
+            </div> */}
             <div className="answer-meaning">{vocab.meaning}</div>
         </button>
     );
